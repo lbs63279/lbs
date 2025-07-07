@@ -399,7 +399,7 @@
     "id": "2f3b4e9e-c772-4bb3-84a2-5d8cbdf870dc",
     "titulo": "Multi-Robot Systems: Trends and Development",
     "autor": "Toshiyuki Yasuda (editor)",
-    "language": "English",
+    "language": "Inglês",
     "ano": 2011,
     "categorias": [
       "Artificial intelligence"
@@ -413,7 +413,7 @@
     "id": "3c892d8d-f82c-4c1d-a23d-c2383b74a7e1",
     "titulo": "Genetic Programming: New Approaches and Successful Applications",
     "autor": "Sebastian Ventura (editor)",
-    "language": "English",
+    "language": "Inglês",
     "ano": 2012,
     "categorias": [
       "Artificial intelligence"
@@ -422,6 +422,175 @@
     "paginas": 300,
     "arquivo": "https://mts.intechopen.com/storage/books/2733/authors_book/authors_book.pdf",
     "tipo_documento": "Livro"
+  },
+  {
+    "id": "d7fc42ae-1b41-4cd1-8a9b-29e1a124fdb3",
+    "titulo": "New Trends in the Use of Artificial Intelligence for the Industry 4.0",
+    "autor": "Roque A. Osornio Rios (editor), Luis Romeral Martínez (editor)",
+    "language": "Inglês",
+    "ano": 2020,
+    "categorias": [
+      "Artificial intelligence",
+      "Computers"
+    ],
+    "descricao": "Industry 4.0 reflects the beginning of the Fourth Industrial Revolution, marked by the integration of cyber-physical systems, data analytics, and artificial intelligence. This book explores how AI technologies, Industrial IoT, and smart data analysis are being applied to develop smart factories. It includes original research and reviews highlighting cutting-edge developments for AI in industry.",
+    "paginas": null,
+    "arquivo": "https://library.oapen.org/bitstream/20.500.12657/43835/1/external_content.pdf",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "2e94a8ef-b4a2-47a3-8f1b-ffcb7c0877fc",
+    "titulo": "New Approaches in Automation and Robotics",
+    "autor": "Harald Aschemann (editor)",
+    "language": "Inglês",
+    "ano": 2008,
+    "categorias": [
+      "Artificial intelligence"
+    ],
+    "descricao": "This book offers a collection of 22 chapters on recent developments in automation, robotics, and control theory. Aimed at researchers, students, and practicing engineers, it seeks to update knowledge on modern methods and motivate engagement in robotics and mechatronics. The content provides useful insights and practical concepts applicable to a range of automation and robotics challenges.",
+    "paginas": 402,
+    "arquivo": "https://mts.intechopen.com/storage/books/3605/authors_book/authors_book.pdf",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "00f0bd6d-8413-41d3-8910-b4529a7999a1",
+    "titulo": "Application of Machine Learning",
+    "autor": "Yagang Zhang (editor)",
+    "language": "Inglês",
+    "ano": 2010,
+    "categorias": [
+      "Artificial intelligence"
+    ],
+    "descricao": "This book presents recent applications of machine learning, covering topics like speech recognition, traffic classification, surface quality prediction in laser machining, network security, bioinformatics, and enterprise credit risk evaluation. It is intended for industrial engineers, scientists, academics, and students in computer science, system sciences, and engineering, providing both practical insights and useful bibliographic references.",
+    "paginas": 290,
+    "arquivo": "https://mts.intechopen.com/storage/books/3790/authors_book/authors_book.pdf",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "9b207309-08d1-4e3e-97f6-b5eb5e8c83c2",
+    "titulo": "Flammenrückschlag durch verbrennungsinduziertes Wirbelaufplatzen. Ähnlichkeitsanalyse unter Berücksichtigung von Baugröße und Brennstoffeigenschaften",
+    "autor": "Georg Blesinger",
+    "language": "Alemão",
+    "ano": 2022,
+    "categorias": [
+      "Gasturbine",
+      "Vormisch-Verbrennung",
+      "Drallströmung",
+      "Wirbelaufplatzen",
+      "Flammenrückschlag"
+    ],
+    "descricao": "Diese Arbeit untersucht experimentell, warum und wie es bei verschiedenen Betriebsbedingungen zum Flammenrückschlag kommt, wenn sich aufgrund von durch die Verbrennung induzierten Dichte- und Druckgradienten das Wirbelaufplatzen und damit die Flamme stromauf verlagern. Drallströmungen und deren energetische Schichtung werden im Kontext moderner Gasturbinen und Vormischverbrennung betrachtet.",
+    "paginas": 284,
+    "arquivo": "https://www.logos-verlag.de/ebooks/OA/978-3-8325-5475-0.pdf",
+    "tipo_documento": "Dissertação"
+  },
+  {
+    "id": "85fe9b28-7b71-4f37-a123-ecf1cf45aeec",
+    "titulo": "Engineering a Better Future: Interplay between Engineering, Social Sciences, and Innovation",
+    "autor": "Eswaran Subrahmanian, Toluwalogo Odumosu, Jeffrey Y. Tsao (eds.)",
+    "language": "Inglês",
+    "ano": 2018,
+    "categorias": [
+      "Education",
+      "Technical education",
+      "Technology—Sociological aspects",
+      "Engineering design",
+      "Management",
+      "Industrial management"
+    ],
+    "descricao": "This open access book examines how the social sciences can be integrated into the praxis of engineering and science. It explores the challenges of combining engineering and social sciences education, the politics and future of engineering in society, and the art and science behind engineering practices. The content originates from an NSF-funded workshop and aims to deepen the interplay between engineering, innovation, and social understanding.",
+    "paginas": 200,
+    "arquivo": "https://library.oapen.org/bitstream/20.500.12657/22935/1/1007226.pdf",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "aef1e0cb-4706-4b99-b59a-8d0e91b01f76",
+    "titulo": "Applied Biological Engineering: Principles and Practice",
+    "autor": "Ganesh R. Naik (ed.)",
+    "language": "Inglês",
+    "ano": 2012,
+    "categorias": [
+      "Biotechnology"
+    ],
+    "descricao": "Biological engineering emphasizes life and life-sustaining systems. This book explores the integration of engineering theory with biological sciences, covering topics such as micro/nanoscale technologies, drug delivery systems, implantable microsensors, and robotic systems for tissue repair. It provides an updated overview of recent developments in the field with diverse applications in clinical and experimental research.",
+    "paginas": 676,
+    "arquivo": "https://mts.intechopen.com/storage/books/1640/authors_book/authors_book.pdf",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "aae48990-48b6-4c3b-a4cc-2b3fbe275e14",
+    "titulo": "Risk-Informed Information Practice: Ways of Knowing in an Uncertain World",
+    "autor": "Alison Hicks",
+    "language": "Inglês",
+    "ano": 2025,
+    "categorias": [
+      "Information",
+      "Risk",
+      "Information literacy",
+      "Society"
+    ],
+    "descricao": "This book explores how people become informed about risk and how this affects their actions in uncertain situations. Through three case studies, it examines how individuals navigate risk information and develop knowledge. It provides a new conceptual framework for risk-informed information practice, integrating risk understanding with risk perception and management. Aimed at scholars and professionals in information literacy, communication, and risk management.",
+    "paginas": 168,
+    "arquivo": "https://library.oapen.org/bitstream/20.500.12657/101618/1/9781040354179.pdf",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "ec26d53b-14cf-43ec-b33b-552e19462c9c",
+    "titulo": "Routledge Handbook of Gender and Water Governance",
+    "autor": "Tatiana Acevedo-Guerrero, Lisa Bossenbroek, Irene Leonardelli, Margreet Zwarteveen, Seema Kulkarni (Editors)",
+    "language": "Inglês",
+    "ano": 2024,
+    "categorias": [
+      "Gender",
+      "Water",
+      "Governance",
+      "Water sanitation",
+      "Water services"
+    ],
+    "descricao": "This handbook offers an in-depth exploration of how water governance is inherently gendered. Drawing on feminist water scholarship and hydrofeminism, it examines gender roles, care work, and power structures related to water use, services, and rights. It spans diverse global perspectives, highlighting positionality, sanitation, livelihoods, and feminist alternatives to mainstream water development. A vital resource for students, scholars, and professionals in gender studies, water governance, sustainability, and development.",
+    "paginas": 456,
+    "arquivo": "https://library.oapen.org/bitstream/20.500.12657/102947/1/9781040120507.pdf",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "9012b80a-c3e5-4a6d-bc5b-885fb3bfc7e5",
+    "titulo": "International trade and recovery strategies in Kenya in the context of COVID-19",
+    "autor": "Tabitha Kiriti-Nganga, Benedicto O. Ongeri, Socrates K. Majune, Justine O. Mogend, Daniel O. Abala, Gastone Otieno",
+    "language": "Inglês",
+    "ano": 2022,
+    "categorias": [
+      "COVID-19",
+      "International trade",
+      "Trade facilitation",
+      "Cross-border trade",
+      "Non-tariff barriers",
+      "Recovery strategies",
+      "Foreign direct investment"
+    ],
+    "descricao": "This book analyzes the impact of COVID-19 on Kenya's economy and trade, and proposes fiscal and monetary policies to foster recovery. It employs descriptive and econometric methodologies using credible data from institutions such as the World Bank, IMF, and Kenya National Bureau of Statistics. Aimed at students and researchers of international trade, it offers practical strategies for managing current and future economic disruptions caused by pandemics.",
+    "paginas": 226,
+    "arquivo": "https://library.oapen.org/bitstream/20.500.12657/62941/1/9781990982057.pdf",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "80c0cf2f-2cb8-4459-9485-fb8eb3bb3bde",
+    "titulo": "Emerging Materials & Technologies: New approaches in Design Teaching Methods on four exemplified areas",
+    "autor": "Venere Ferraro, Anke Pasold",
+    "language": "Italiano",
+    "ano": 2020,
+    "categorias": [
+      "Emerging Materials and Technologies",
+      "ICS Materials",
+      "Wearable technologies",
+      "Advanced Wood-Based Materials",
+      "Nanomaterials",
+      "Growing Materials",
+      "Design-driven approach"
+    ],
+    "descricao": "This book explores four key areas in Emerging Materials & Technologies (EM&Ts): Experimental Wood-Based Materials, Interactive Connected Smart (ICS) Wearable Materials, Carbon-based & Nanotech Materials, and Advanced Growing Materials. It discusses innovative design teaching methods, aiming to equip students with professional skills and proposes new guidelines for education in these advanced technological domains.",
+    "paginas": 172,
+    "arquivo": "https://library.oapen.org/bitstream/20.500.12657/41797/1/556-99Z_Book%20Manuscript-3050-2-10-20200904.pdf",
+    "tipo_documento": "Livro"
   }
-  
+
 ]
