@@ -1,231 +1,281 @@
 [
-    {
-      "id": "6f4c9187-1c6f-486f-8c96-d5b077333f48",
-      "titulo": "Sustainable Business Models.",
-      "autor": "Adam Jabłoński",
-      "language": "English",
-      "ano": 2019,
-      "categorias": ["Administração"],
-      "descricao": "The dynamically changing world economy, in an era of intensive development and globalization, creates new needs in both the theoretical models of management and in the practical discussion related to the perception of business. Because of new economic phenomena related to the crisis, there is a need for the design and operationalization of innovative business models for companies. Due to the fact that in times of crisis, the principles of strategic balance are particularly important; these business models can be sustainable business models. Moreover, it is essential to skillfully use different methods and concepts of management to ensure the continuity of business. It seems that sustainable business models, in their essence, can support companies' effectiveness and contribute to their stable, sustainable functioning in the difficult, ever-changing market. This Special Issue aims to discuss the key mechanisms concerning the design and operationalization of sustainable business models, from a strategic perspective. We invite you to contribute to this Issue by submitting comprehensive reviews, case studies, or research articles. Papers selected for this Special Issue are subject to a rigorous peer review procedure, with the aim of rapid and wide dissemination of research results, developments, and applications.",
-      "paginas": 514,
-      "arquivo": "https://mdpi-res.com/bookfiles/book/1113/Sustainable_Business_Models.pdf?v=1751590923",
-      "tipo_documento": "Livro"
-    },
-    {
-      "id": "380a577e-b248-440c-bc82-54e2fc3a1a56",
-      "titulo": "Business Model-the Perspective of Systems Thinking and Innovation.",
-      "autor": "Henten, Anders Hansen",
-      "language": "English",
-      "ano": 2023,
-      "categorias": ["Economics"],
-      "descricao": "The business model concept has gained a prominent position both in academia and among practitioners during the past 30+ years. The aim of this Special Issue of Systems is to contribute to a stronger theoretical basis for the business model concept. This includes a focus on the systemic character of business models and the systems approaches that this entails. Another important aspect is to allocate more attention to innovations of business models. The business models that emerged with e-commerce and e-business as such were in themselves innovations. However, innovations of business models have received too little attention. Most of the business models analyzed and discussed in the business model literature have been rather static instead of dynamic. This is the reason why this Special Issue of Systems, entitled ‘Business Model—the Perspective of Systems Thinking and Innovation’, has been developed.",
-      "paginas": 308,
-      "arquivo": "https://mdpi-res.com/bookfiles/book/7387/Business_Modelthe_Perspective_of_Systems_Thinking_and_Innovation.pdf?v=1751591267",
-      "tipo_documento": "Livro"
-    },
-    {
-      "id": "5c8cbf03-bcc4-4447-9526-f0c81bca8479",
-      "titulo": "Business Models and Sustainable Development Goals.",
-      "autor": "Ensign, Prescott C.",
-      "language": "English",
-      "ano": 2022,
-      "categorias": ["Economics"],
-      "descricao": "This Special Issue on “Business Models and Sustainable Development Goals (SDG)” presents five research studies that examine transformative business models designed to support the United Nations SDG Agenda for 2030. The studies examine SDGs from the firm to national levels. Every organization has a business model that defines how the organization is designed to function. It is the engine that powers an organization, defining the value proposition of the venture, how it balances resources with the ecosystem where it operates, and how it generates cash flow and creates value. Changes to an organization’s business model are recognized as a fundamental approach to implementing innovations for sustainability. The capability to transform or transition to new business models is an important source of competitive advantage, providing leverage to improve the performance of an organization. A sustainable business model includes pro-active management, monetary and non-monetary value for a broad range of stakeholders, and takes a long-term perspective. A sustainable business model is where change, success, and hope for our planet’s future rests.",
-      "paginas": 138,
-      "arquivo": "https://mdpi-res.com/bookfiles/book/5625/Business_Models_and_Sustainable_Development_Goals.pdf?v=1751591167",
-      "tipo_documento": "Livro"
-    },
-    {
-      "id": "f97ccf48-b766-417c-99f1-d763bbd148ba",
-      "titulo": "Pricing of Consumer Innovations.",
-      "autor": "Ebbing, Tobias.",
-      "language": "English",
-      "ano": 2022,
-      "categorias": ["Business"],
-      "descricao": "Consumers are an important source of innovation. They primarily innovate out of non-monetary motivations, such as use interest, learning and social rewards. Nonetheless, increasing numbers of such consumer and user innovators recently began diffusing their creations on online marketplaces, where they price and commercialize them. This empirical work reveals that, compared to firms, consumers’ different motivations to innovate affect their pricing decisions systematically in terms of cost, customer quality and competition considerations. Furthermore, it shows that customers’ price evaluations differ consistently when a product is marketed as created by consumers. Two empirical, sequential mixed methods studies were conducted for testing a series of hypotheses derived from fusing pricing research with consumer and user innovation theory. The empirical work was executed in the field of indie video games. Its core quantitative analyses were carried out with data scraped from the Steam computer game marketplace. Interviews and experiments with commercializing consumer innovators and their customers scaffold the findings from the market data analyses. The generated knowledge helps (a) consumer and user innovators to shape and validate their marketing strategies, (b) business administrators to respond to an influx of consumer innovators as competitors, and (c) economists in understanding the market impacts of commercial consumer innovation diffusion.",
-      "paginas": 213,
-      "arquivo": "https://www.logos-verlag.de/ebooks/OA/978-3-8325-5510-8.pdf",
-      "tipo_documento": "Livro"
-    },
-    {
-      "id": "c9efa72a-67aa-488d-bb0c-5b10aac209e8",
-      "titulo": "Business Intelligence.",
-      "autor": "Mircea, Marinela.",
-      "language": "English",
-      "ano": 2022,
-      "categorias": ["Business"],
-      "descricao": "The work addresses to specialists in informatics, with preoccupations in development of Business Intelligence systems, and also to beneficiaries of such systems, constituting an important scientific contribution. Experts in the field contribute with new ideas and concepts regarding the development of Business Intelligence applications and their adoption in organizations. This book presents both an overview of Business Intelligence and an in-depth analysis of current applications and future directions for this technology. The book covers a large area, including methods, concepts, and case studies related to: constructing an enterprise business intelligence maturity model, developing an agile architecture framework that leverages the strengths of business intelligence, decision management and service orientation, adding semantics to Business Intelligence, towards business intelligence over unified structured and unstructured data using XML, density-based clustering and anomaly detection, data mining based on neural networks.",
-      "paginas": 120,
-      "arquivo": "https://mts.intechopen.com/storage/books/1933/authors_book/authors_book.pdf",
-      "tipo_documento": "Livro"
-    },
-    {
-      "id": "51a1cb59-be0f-4664-9aaf-e445c6a48fcd",
-      "titulo": "Business Ethics.",
-      "autor": "Lütge, Christoph.",
-      "language": "English",
-      "ano": 2021,
-      "categorias": ["Business"],
-      "descricao": "Business ethics continues to gain importance in the curricula of business studies courses. This book provides a comprehensive overview of both the essential concepts of business ethics related to the economy as a whole, and the more narrowly understood corporate ethics related to the individual company. In contrast to other works on the same topic, special emphasis is placed on a coherent theoretical foundation that puts tools of economic analysis, including behavioral economics, at the center. In particular, the importance of both empirical research and dilemma structures for business ethics receives special attention. The largest chapter of the book is devoted to corporate ethics and provides students and academics with guidance in the theoretical classification of the variety of concepts that often coexist in the debate. Abstract concepts are illustrated with the help of practice boxes.",
-      "paginas": 352,
-      "arquivo": "https://library.oapen.org/bitstream/handle/20.500.12657/63832/9780198864776.pdf?sequence=1",
-      "tipo_documento": "Livro"
-    },
-    {
-      "id": "388ac185-06ec-4fb5-a740-9916fbe9f760",
-      "titulo": "Corporate Social Responsibility and SMEs.",
-      "autor": "Lütge, Christoph.",
-      "language": "English",
-      "ano": 2021,
-      "categorias": ["Business"],
-      "descricao": "The world’s people and their leaders face a complex and multifaceted set of ‘eco-social questions’. As the productivity of humanity increases, the negative external environmental effects of production and consumption patterns become increasingly problematic and threaten the human welfare. As the regulating power of national and international governments is limited, this challenge has generated a strong interest in the corporate social responsibility (CSR) of companies. Firms find it increasingly important to meet the expectations of stakeholders with respect to the company’s contribution to profit, planet, and people. The primary aim of this book is to introduce the reader to the impacts and drivers of CSR, with a special focus on small and medium-sized enterprises (SMEs). Research into the social and environmental impacts of CSR is rare. This is a serious gap because if CSR were to fail to have favourable social and environmental impacts on society, the whole concept may become redundant. If societal impacts of CSR are substantial, it is important to know the drivers of CSR. This book considers (1) factors internal to the company, (2) the competitive environment of the company, (3) institutions external to the company, and (4) how the impacts of institutions are mediated or moderated by company internal factors. This book will fill this gap by estimating various types of models that integrate external and internal factors driving CSR and its impacts on environment, innovation, and reputation, making it a valuable resource for researchers, academics, and students in the fields of business management and CSR. The Open Access version of this book, available at http://www.taylorfrancis.com, has been made available under a Creative Commons Attribution-Non-Commercial (CC-BY-NC) 4.0 license.",
-      "paginas": 298,
-      "arquivo": "https://library.oapen.org/bitstream/handle/20.500.12657/101756/9781000523201.pdf?sequence=1",
-      "tipo_documento": "Livro"
-    },
-    {
-      "id": "ce875b0d-42b7-4285-8d37-69d8c40d258e",
-      "titulo": "Reputation Management and Family Business.",
-      "autor": "Dacko-Pikiewicz, Zdzisława.",
-      "language": "English",
-      "ano": 2022,
-      "categorias": ["Business"],
-      "descricao": "Corporate reputation is important in gaining long-term competitive advantage and building company value. Thus, the author points out the need to manage reputation, which, due to its complex nature and multidimensional character, is a serious and difficult challenge. The author develops a strategic model for family business reputation management. The book presents the review, systematization and synthesis of views on the notion of reputation and its role in building company value, the determinants of reputation; the identification of the characteristics and distinguishing factors of family businesses, areas of reputation building and resources involved in family business reputation building processes; and the description of determinants, components and processes in the field of corporate reputation management, and the identification of key links between them. It also identifies the key elements of the concept of family business reputation management and the relationship between them and practical recommendations for the use of reputation management concepts in improving the functioning of family businesses. The developed model can undoubtedly be seen as a pioneering contribution to research into the competitiveness of enterprises. The book will therefore be useful to researchers, students and managers who are interested in decision-making in family businesses, entrepreneurship and small business management, and leadership studies.",
-      "paginas": 224,
-      "arquivo": "https://library.oapen.org/bitstream/handle/20.500.12657/51094/9781000509472.pdf?sequence=1",
-      "tipo_documento": "Livro"
-    },
-    {
-      "id": "fdb86274-133d-47fd-a496-fe479fe8dfa0",
-      "titulo": "Business Model Innovation.",
-      "autor": "Aagaard, Annabeth.",
-      "language": "English",
-      "ano": 2024,
-      "categorias": ["Business"],
-      "descricao": "In the contemporary business landscape, the imperative for innovative approaches to business model innovation (BMI) is more pronounced than ever, especially given the pressing grand challenges, technological disruptions, digital transformation, and pressing environmental and social concerns of our era. The prevailing discourse in business model and BMI scholarship predominantly revolves around established frameworks and methodologies, thereby not fully capturing the burgeoning opportunities and transformative forces redefining BMI's future trajectory. This open access volume aims to fill the gap in scholarly discourse by offering a theory-rich exploration into the innovative pathways of business model innovation. Crafted for a global readership, this text serves as an invaluable resource for academic institutions, their faculty, students, and practitioners of business development within both expansive corporations and medium-sized enterprises. A key contribution of this edited book is the introduction of groundbreaking models and theoretical insights within the BMI domain, identifying key research gaps and further research venues for junior and senior academics to pursue, while enhancing the comprehension of how entities—ranging from individual organizations to expansive networks—can innovate, execute, and capitalize on BMI in the forthcoming landscape. Furthermore, this book elucidates the multifaceted nature of business model innovation across diverse contexts, illustrating the myriad ways BMI can be conceptualized and operationalized to achieve varying objectives, benefits, and results contingent upon the specific scenario. Lastly, this volume is dedicated to invigorating and equipping both nascent startups and entrenched firms to seize emergent BMI opportunities, fostering an environment where leveraging networks and platforms becomes a cornerstone for future business model innovation.",
-      "paginas": 337,
-      "arquivo": "https://library.oapen.org/bitstream/handle/20.500.12657/92666/978-3-031-57511-2.pdf?sequence=1",
-      "tipo_documento": "Livro"
-    },
-    {
-      "id": "bfafdd99-40f6-47bf-ac06-c0b348333323",
-      "titulo": "Creative Business in Australia.",
-      "autor": "Andersen, Lisa.",
-      "language": "English",
-      "ano": 2015,
-      "categorias": ["Business"],
-      "descricao": "As the largest ever Australian government investment in creative industries development, the Creative Industries Innovation Centre delivered tailored business services to more than 1500 creative businesses from 2009 to 2015 and provided industry intelligence and advice for public policy and peak sectoral activity. This collection gives an overview of the current ‘state of business’ in Australia’s creative industries – both as an industry sector in its own right and as an enabling sector and skills set for other industries – and reflects on business needs, creative industries policy and support services for the sector. With contributions from the Centre’s team of senior business advisers and from leading Australian researchers who worked closely with the Centre –including experts on design-led innovation and the creative economy – and case studies of leading Australia creative businesses, the book is intended as and industry-relevant contribution to business development and public policy. Content links to the publicly accessible Creative Industries Innovation Centre Collection Archive at the UTS Library, which holds material from Centre’s activities over its six years of operation.",
-      "paginas": 133,
-      "arquivo": "https://library.oapen.org/bitstream/handle/20.500.12657/39696/creative-business-in-australia.pdf?sequence=1",
-      "tipo_documento": "Livro"
-    },
-    {
-      "id": "9c22284a-732e-46f9-8c93-9a15b92a84fd",
-      "titulo": "Advancing U.S. Latino Entrepreneurship.",
-      "autor": "Porras, Jerry I.",
-      "language": "English",
-      "ano": 2020,
-      "categorias": ["Business"],
-      "descricao": "Advancing U.S. Latino Entrepreneurship examines business formation and success among Latinos by identifying arrangements that enhance entrepreneurship and by understanding the sociopolitical contexts that shape entrepreneurial trajectories. While it is well known that Latinos make up one of the largest and fastest growing populations in the U.S., Latino-owned businesses are now outpacing this population growth and the startup business growth of all other demographic groups in the country. The institutional arrangements shaping business formation are no level playing field. Minority entrepreneurs face racism and sexism, but structural barriers are not the only obstacles that matter; there are agentic barriers and coethnics present challenges as well as support to each other. Yet minorities engage in business formation, and in doing so, change institutional arrangements by transforming the attitudes of society and the practices of policymakers. The economic future of the country is tied to the prospects of Latinos forming and growing business. The diversity of Latino experience constitutes an economic resource for those interested in forming businesses that appeal to native-born citizens and fellow immigrants alike, ranging from local to national to international markets. This book makes a substantial contribution to the literature on entrepreneurship and wealth creation by focusing on Latinos, a population vastly understudied on these topics, by describing processes and outcomes for Latino entrepreneurs. Unfairly, the dominant story of Latinos—especially Mexican Americans—is that of dispossession and its consequences. Advancing U.S. Latino Entrepreneurship makes clear the undiminished ambitions of Latinos as well as the transformative relationships among people, their practices, and the political context in which they operate. The reality of Latino entrepreneurs demands new attention and focus.",
-      "paginas": 416,
-      "arquivo": "https://muse.jhu.edu/pub/60/oa_monograph/book/73839/pdf",
-      "tipo_documento": "Livro"
-    },
-    {
-      "id": "288976b2-4912-43c2-b0e8-915807928978",
-      "titulo": "Industry 4.0 – The Global Industrial Revolution: Achievements, Obstacles and Research Needs for the Digital Transformation of Industry.",
-      "autor": "Winter, Johannes",
-      "language": "English",
-      "ano": 2023,
-      "categorias": ["Business"],
-      "descricao": "This Special Issue delves into the strides made, challenges encountered, and research imperatives within the realm of Industrie 4.0 from both a scientific and practical standpoint. This publication features the voices of Industrie 4.0 pioneers Henning Kagermann and Wolfgang Wahlster, as well as leaders in research and industrial application of smart manufacturing concepts.",
-      "paginas": 248,
-      "arquivo": "https://mdpi-res.com/bookfiles/book/8462/Industry_40__The_Global_Industrial_Revolution_Achievements_Obstacles_and_Research_Needs_for_the_Digital_Transformation_of_Industry.pdf?v=1751850515",
-      "tipo_documento": "Livro"
-    },
-    {
-      "id": "6f0220a5-2f00-40fa-90f1-93fd0d8ab835",
-      "titulo": "Built on Value",
-      "autor": "Huang, Weiwei",
-      "language": "English",
-      "ano": 2019,
-      "categorias": ["Business"],
-      "descricao": "Business; Management science; Management; Business enterprises—Finance; Manpower policy.",
-      "paginas": 482,
-      "arquivo": "https://library.oapen.org/bitstream/handle/20.500.12657/23180/1006973.pdf?sequence=1",
-      "tipo_documento": "Livro"
-    },
-    {
-      "id": "4102af09-504a-48a3-976d-d3398f3775f0",
-      "titulo": "CESEE Bank Lending Survey – Spring 2023",
-      "autor": "Huang, Weiwei",
-      "language": "English",
-      "ano": 2023,
-      "categorias": ["Business"],
-      "descricao": "The CESEE Bank Lending Survey is a unique instrument developed in the context of the Vienna Initiative to monitor cross-border banking activities and deleveraging in Central, Eastern and South-Eastern Europe. It serves to better understand the determinants/constraints influencing credit growth in the region and to gain forward-looking insights into the strategies of cross-border banks and market expectations regarding local financial conditions. This report presents the results of the EIB CESEE Bank Lending survey at the regional and single country levels.",
-      "paginas": 482,
-      "arquivo": "https://library.oapen.org/bitstream/handle/20.500.12657/100547/9789286155734_pdf.pdf?sequence=1",
-      "tipo_documento": "Livro"
-    },
-    {
-      "id": "8f2459e0-8289-44a7-9440-4f8c58499a31",
-      "titulo": "Transnational Entrepreneurship in South East Asia",
-      "autor": "Yokoyama, Kazuko",
-      "language": "English",
-      "ano": 2020,
-      "categorias": ["Business"],
-      "descricao": "This open access book brings together narratives of inbound and outbound expatriate entrepreneurship in Japan to provide a comprehensive overview of international entrepreneurship in the region. Through in-depth interviews with expatriate entrepreneurs, policymakers, and additional stakeholders it provides the reader with a solid understanding of the current landscape of international entrepreneurship as it relates to Japan and the challenges for policymakers. The topics addressed in this book include definitions of expatriate entrepreneurship, entrepreneurship policy development and implementation, concepts of mindset, cultural brokerage, community, and identity as they relate to Japanese self-initiated expatriate entrepreneurs working in South East Asia and to non-Japanese self-initiated expatriate entrepreneurs working in Japan. Additionally, the book provides an overview of issues connected to regional development and economic growth in Asia. Illustrated through carefully chosen cases from Japan, Myanmar, Thailand, Cambodia, Vietnam, and Indonesia and developed by connecting these cases to policy and interdisciplinary studies, this book is highly recommended to scholars, policymakers and practitioners who seek an in-depth and up-to-date integrated overview of the field of expatriate entrepreneurship in Asia.",
-      "paginas": 232,
-      "arquivo": "https://library.oapen.org/bitstream/handle/20.500.12657/23191/1006962.pdf?sequence=1",
-      "tipo_documento": "Livro"
-    },
-    {
-      "id": "f0076077-2e99-46a4-bfb2-53f385ffb7a1",
-      "titulo": "Pathways to Supply Chain Excellence",
-      "autor": "Groznik, Ales",
-      "language": "English",
-      "ano": 2012,
-      "categorias": ["Business"],
-      "descricao": "Over the last decade, supply chain management has advanced from the warehouse and logistics to strategic management. Integrating theory and practices of supply chain management, this book incorporates hands-on literature on selected topics of Value Creation, Supply Chain Management Optimization and Mass-Customization. These topics represent key building blocks in management decisions and highlight the increasing importance of the supply chains supporting the global economy. The coverage focuses on how to build a competitive supply chain using viable management strategies, operational models, and information technology. It includes a core presentation on supply chain management, collaborative planning, advanced planning and budgeting system, risk management and new initiatives such as incorporating anthropometry into design of products.",
-      "paginas": 222,
-      "arquivo": "https://mts.intechopen.com/storage/books/1344/authors_book/authors_book.pdf",
-      "tipo_documento": "Livro"
-    },
-    {
-      "id": "d7b94236-bf1e-46ec-8866-b9ec9dcc6862",
-      "titulo": "Sufficiency in Business",
-      "autor": "Gossen, Maike",
-      "language": "English",
-      "ano": 2024,
-      "categorias": ["Business"],
-      "descricao": "Businesses want to be sustainable but how can they promote sufficiency? Sufficiency-oriented business models focus on creating sustainable value, promoting reduced resource consumption and adjusting production volumes to planetary boundaries. The contributors to this volume present real-life examples of sufficiency-oriented companies across diverse industries. These experts share their insights on sufficiency strategies in business, barriers and opportunities discovered, and the impact on customer behavioural change. They address the far-reaching changes in business, society, and policy required for this paradigm shift and suggest future research directions.",
-      "paginas": 349,
-      "arquivo": "https://library.oapen.org/bitstream/handle/20.500.12657/90685/9783839469101.pdf?sequence=1",
-      "tipo_documento": "Livro"
-    },
-    {
-      "id": "70ef0ea5-2f14-4274-bc4a-cc514afc556b",
-      "titulo": "The Rise and Development of FinTech",
-      "autor": "Teigland, Robin",
-      "language": "English",
-      "ano": 2018,
-      "categorias": ["Business"],
-      "descricao": "The FinTech/InsurTech-based business models are gradually maturing and disrupting the offering and management of financial services (banking, financial and insurance) on the global stage. However, understanding of the risk landscape of the FinTech and InsurTech business models remains at an early stage due to the diverse nature of their activities and the rapid development of the field. Although FinTech and InsurTech offer the opportunity to accelerate economic growth and expand financial affordability/inclusion in all countries, they pose new risks to financial stability and integrity. This book contains five articles that offer a discussion of state-of-the-art developments or introduce new theoretical or practical advances in the identification, measurement and management of the risks arising from the FinTech/InsurTech-based business models.",
-      "paginas": 467,
-      "arquivo": "https://library.oapen.org/bitstream/handle/20.500.12657/76018/9781351183611.pdf?sequence=1",
-      "tipo_documento": "Livro"
-    },
-    {
-      "id": "ddf56c9b-89c3-4585-81f9-85c1b01f718c",
-      "titulo": "The Future of Money",
-      "autor": "Mellor, Mary",
-      "language": "English",
-      "ano": 2010,
-      "categorias": ["Business"],
-      "descricao": "As the recent financial crisis has revealed, the state is central to the stability of the money system, while the chaotic privately-owned banks reap the benefits without shouldering the risks. This book argues that money is a public resource that has been hijacked by capitalism. Mary Mellor explores the history of money and modern banking, showing how finance capital has captured bank-created money to enhance speculative ‘leveraged’ profits as well as destroying collective approaches to economic life. Meanwhile, most individuals, and the public economy, have been mired in debt. To correct this obvious injustice, Mellor proposes a public and democratic future for money. Ways are put forward for structuring the money and banking system to provision societies on an equitable, ecologically sustainable ‘sufficiency’ basis. This fascinating study of money should be read by all economics students looking for an original analysis of the economy during the current crisis.",
-      "paginas": 209,
-      "arquivo": "https://library.oapen.org/bitstream/handle/20.500.12657/76018/9781351183611.pdf?sequence=1",
-      "tipo_documento": "Livro"
-    }
-  ]
-  
+  {
+    "id": "6f4c9187-1c6f-486f-8c96-d5b077333f48",
+    "titulo": "Sustainable Business Models.",
+    "autor": "Adam Jabłoński",
+    "language": "English",
+    "ano": 2019,
+    "categorias": [
+      "Administração"
+    ],
+    "descricao": "The dynamically changing world economy, in an era of intensive development and globalization, creates new needs in both the theoretical models of management and in the practical discussion related to the perception of business. Because of new economic phenomena related to the crisis, there is a need for the design and operationalization of innovative business models for companies. Due to the fact that in times of crisis, the principles of strategic balance are particularly important; these business models can be sustainable business models. Moreover, it is essential to skillfully use different methods and concepts of management to ensure the continuity of business. It seems that sustainable business models, in their essence, can support companies' effectiveness and contribute to their stable, sustainable functioning in the difficult, ever-changing market. This Special Issue aims to discuss the key mechanisms concerning the design and operationalization of sustainable business models, from a strategic perspective. We invite you to contribute to this Issue by submitting comprehensive reviews, case studies, or research articles. Papers selected for this Special Issue are subject to a rigorous peer review procedure, with the aim of rapid and wide dissemination of research results, developments, and applications.",
+    "paginas": 514,
+    "arquivo": "https://mdpi-res.com/bookfiles/book/1113/Sustainable_Business_Models.pdf?v=1751590923",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "380a577e-b248-440c-bc82-54e2fc3a1a56",
+    "titulo": "Business Model-the Perspective of Systems Thinking and Innovation.",
+    "autor": "Henten, Anders Hansen",
+    "language": "English",
+    "ano": 2023,
+    "categorias": [
+      "Economics"
+    ],
+    "descricao": "The business model concept has gained a prominent position both in academia and among practitioners during the past 30+ years. The aim of this Special Issue of Systems is to contribute to a stronger theoretical basis for the business model concept. This includes a focus on the systemic character of business models and the systems approaches that this entails. Another important aspect is to allocate more attention to innovations of business models. The business models that emerged with e-commerce and e-business as such were in themselves innovations. However, innovations of business models have received too little attention. Most of the business models analyzed and discussed in the business model literature have been rather static instead of dynamic. This is the reason why this Special Issue of Systems, entitled ‘Business Model—the Perspective of Systems Thinking and Innovation’, has been developed.",
+    "paginas": 308,
+    "arquivo": "https://mdpi-res.com/bookfiles/book/7387/Business_Modelthe_Perspective_of_Systems_Thinking_and_Innovation.pdf?v=1751591267",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "5c8cbf03-bcc4-4447-9526-f0c81bca8479",
+    "titulo": "Business Models and Sustainable Development Goals.",
+    "autor": "Ensign, Prescott C.",
+    "language": "English",
+    "ano": 2022,
+    "categorias": [
+      "Economics"
+    ],
+    "descricao": "This Special Issue on “Business Models and Sustainable Development Goals (SDG)” presents five research studies that examine transformative business models designed to support the United Nations SDG Agenda for 2030. The studies examine SDGs from the firm to national levels. Every organization has a business model that defines how the organization is designed to function. It is the engine that powers an organization, defining the value proposition of the venture, how it balances resources with the ecosystem where it operates, and how it generates cash flow and creates value. Changes to an organization’s business model are recognized as a fundamental approach to implementing innovations for sustainability. The capability to transform or transition to new business models is an important source of competitive advantage, providing leverage to improve the performance of an organization. A sustainable business model includes pro-active management, monetary and non-monetary value for a broad range of stakeholders, and takes a long-term perspective. A sustainable business model is where change, success, and hope for our planet’s future rests.",
+    "paginas": 138,
+    "arquivo": "https://mdpi-res.com/bookfiles/book/5625/Business_Models_and_Sustainable_Development_Goals.pdf?v=1751591167",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "f97ccf48-b766-417c-99f1-d763bbd148ba",
+    "titulo": "Pricing of Consumer Innovations.",
+    "autor": "Ebbing, Tobias.",
+    "language": "English",
+    "ano": 2022,
+    "categorias": [
+      "Business"
+    ],
+    "descricao": "Consumers are an important source of innovation. They primarily innovate out of non-monetary motivations, such as use interest, learning and social rewards. Nonetheless, increasing numbers of such consumer and user innovators recently began diffusing their creations on online marketplaces, where they price and commercialize them. This empirical work reveals that, compared to firms, consumers’ different motivations to innovate affect their pricing decisions systematically in terms of cost, customer quality and competition considerations. Furthermore, it shows that customers’ price evaluations differ consistently when a product is marketed as created by consumers. Two empirical, sequential mixed methods studies were conducted for testing a series of hypotheses derived from fusing pricing research with consumer and user innovation theory. The empirical work was executed in the field of indie video games. Its core quantitative analyses were carried out with data scraped from the Steam computer game marketplace. Interviews and experiments with commercializing consumer innovators and their customers scaffold the findings from the market data analyses. The generated knowledge helps (a) consumer and user innovators to shape and validate their marketing strategies, (b) business administrators to respond to an influx of consumer innovators as competitors, and (c) economists in understanding the market impacts of commercial consumer innovation diffusion.",
+    "paginas": 213,
+    "arquivo": "https://www.logos-verlag.de/ebooks/OA/978-3-8325-5510-8.pdf",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "c9efa72a-67aa-488d-bb0c-5b10aac209e8",
+    "titulo": "Business Intelligence.",
+    "autor": "Mircea, Marinela.",
+    "language": "English",
+    "ano": 2022,
+    "categorias": [
+      "Business"
+    ],
+    "descricao": "The work addresses to specialists in informatics, with preoccupations in development of Business Intelligence systems, and also to beneficiaries of such systems, constituting an important scientific contribution. Experts in the field contribute with new ideas and concepts regarding the development of Business Intelligence applications and their adoption in organizations. This book presents both an overview of Business Intelligence and an in-depth analysis of current applications and future directions for this technology. The book covers a large area, including methods, concepts, and case studies related to: constructing an enterprise business intelligence maturity model, developing an agile architecture framework that leverages the strengths of business intelligence, decision management and service orientation, adding semantics to Business Intelligence, towards business intelligence over unified structured and unstructured data using XML, density-based clustering and anomaly detection, data mining based on neural networks.",
+    "paginas": 120,
+    "arquivo": "https://mts.intechopen.com/storage/books/1933/authors_book/authors_book.pdf",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "51a1cb59-be0f-4664-9aaf-e445c6a48fcd",
+    "titulo": "Business Ethics.",
+    "autor": "Lütge, Christoph.",
+    "language": "English",
+    "ano": 2021,
+    "categorias": [
+      "Business"
+    ],
+    "descricao": "Business ethics continues to gain importance in the curricula of business studies courses. This book provides a comprehensive overview of both the essential concepts of business ethics related to the economy as a whole, and the more narrowly understood corporate ethics related to the individual company. In contrast to other works on the same topic, special emphasis is placed on a coherent theoretical foundation that puts tools of economic analysis, including behavioral economics, at the center. In particular, the importance of both empirical research and dilemma structures for business ethics receives special attention. The largest chapter of the book is devoted to corporate ethics and provides students and academics with guidance in the theoretical classification of the variety of concepts that often coexist in the debate. Abstract concepts are illustrated with the help of practice boxes.",
+    "paginas": 352,
+    "arquivo": "https://library.oapen.org/bitstream/handle/20.500.12657/63832/9780198864776.pdf?sequence=1",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "388ac185-06ec-4fb5-a740-9916fbe9f760",
+    "titulo": "Corporate Social Responsibility and SMEs.",
+    "autor": "Lütge, Christoph.",
+    "language": "English",
+    "ano": 2021,
+    "categorias": [
+      "Business"
+    ],
+    "descricao": "The world’s people and their leaders face a complex and multifaceted set of ‘eco-social questions’. As the productivity of humanity increases, the negative external environmental effects of production and consumption patterns become increasingly problematic and threaten the human welfare. As the regulating power of national and international governments is limited, this challenge has generated a strong interest in the corporate social responsibility (CSR) of companies. Firms find it increasingly important to meet the expectations of stakeholders with respect to the company’s contribution to profit, planet, and people. The primary aim of this book is to introduce the reader to the impacts and drivers of CSR, with a special focus on small and medium-sized enterprises (SMEs). Research into the social and environmental impacts of CSR is rare. This is a serious gap because if CSR were to fail to have favourable social and environmental impacts on society, the whole concept may become redundant. If societal impacts of CSR are substantial, it is important to know the drivers of CSR. This book considers (1) factors internal to the company, (2) the competitive environment of the company, (3) institutions external to the company, and (4) how the impacts of institutions are mediated or moderated by company internal factors. This book will fill this gap by estimating various types of models that integrate external and internal factors driving CSR and its impacts on environment, innovation, and reputation, making it a valuable resource for researchers, academics, and students in the fields of business management and CSR. The Open Access version of this book, available at http://www.taylorfrancis.com, has been made available under a Creative Commons Attribution-Non-Commercial (CC-BY-NC) 4.0 license.",
+    "paginas": 298,
+    "arquivo": "https://library.oapen.org/bitstream/handle/20.500.12657/101756/9781000523201.pdf?sequence=1",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "ce875b0d-42b7-4285-8d37-69d8c40d258e",
+    "titulo": "Reputation Management and Family Business.",
+    "autor": "Dacko-Pikiewicz, Zdzisława.",
+    "language": "English",
+    "ano": 2022,
+    "categorias": [
+      "Business"
+    ],
+    "descricao": "Corporate reputation is important in gaining long-term competitive advantage and building company value. Thus, the author points out the need to manage reputation, which, due to its complex nature and multidimensional character, is a serious and difficult challenge. The author develops a strategic model for family business reputation management. The book presents the review, systematization and synthesis of views on the notion of reputation and its role in building company value, the determinants of reputation; the identification of the characteristics and distinguishing factors of family businesses, areas of reputation building and resources involved in family business reputation building processes; and the description of determinants, components and processes in the field of corporate reputation management, and the identification of key links between them. It also identifies the key elements of the concept of family business reputation management and the relationship between them and practical recommendations for the use of reputation management concepts in improving the functioning of family businesses. The developed model can undoubtedly be seen as a pioneering contribution to research into the competitiveness of enterprises. The book will therefore be useful to researchers, students and managers who are interested in decision-making in family businesses, entrepreneurship and small business management, and leadership studies.",
+    "paginas": 224,
+    "arquivo": "https://library.oapen.org/bitstream/handle/20.500.12657/51094/9781000509472.pdf?sequence=1",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "fdb86274-133d-47fd-a496-fe479fe8dfa0",
+    "titulo": "Business Model Innovation.",
+    "autor": "Aagaard, Annabeth.",
+    "language": "English",
+    "ano": 2024,
+    "categorias": [
+      "Business"
+    ],
+    "descricao": "In the contemporary business landscape, the imperative for innovative approaches to business model innovation (BMI) is more pronounced than ever, especially given the pressing grand challenges, technological disruptions, digital transformation, and pressing environmental and social concerns of our era. The prevailing discourse in business model and BMI scholarship predominantly revolves around established frameworks and methodologies, thereby not fully capturing the burgeoning opportunities and transformative forces redefining BMI's future trajectory. This open access volume aims to fill the gap in scholarly discourse by offering a theory-rich exploration into the innovative pathways of business model innovation. Crafted for a global readership, this text serves as an invaluable resource for academic institutions, their faculty, students, and practitioners of business development within both expansive corporations and medium-sized enterprises. A key contribution of this edited book is the introduction of groundbreaking models and theoretical insights within the BMI domain, identifying key research gaps and further research venues for junior and senior academics to pursue, while enhancing the comprehension of how entities—ranging from individual organizations to expansive networks—can innovate, execute, and capitalize on BMI in the forthcoming landscape. Furthermore, this book elucidates the multifaceted nature of business model innovation across diverse contexts, illustrating the myriad ways BMI can be conceptualized and operationalized to achieve varying objectives, benefits, and results contingent upon the specific scenario. Lastly, this volume is dedicated to invigorating and equipping both nascent startups and entrenched firms to seize emergent BMI opportunities, fostering an environment where leveraging networks and platforms becomes a cornerstone for future business model innovation.",
+    "paginas": 337,
+    "arquivo": "https://library.oapen.org/bitstream/handle/20.500.12657/92666/978-3-031-57511-2.pdf?sequence=1",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "bfafdd99-40f6-47bf-ac06-c0b348333323",
+    "titulo": "Creative Business in Australia.",
+    "autor": "Andersen, Lisa.",
+    "language": "English",
+    "ano": 2015,
+    "categorias": [
+      "Business"
+    ],
+    "descricao": "As the largest ever Australian government investment in creative industries development, the Creative Industries Innovation Centre delivered tailored business services to more than 1500 creative businesses from 2009 to 2015 and provided industry intelligence and advice for public policy and peak sectoral activity. This collection gives an overview of the current ‘state of business’ in Australia’s creative industries – both as an industry sector in its own right and as an enabling sector and skills set for other industries – and reflects on business needs, creative industries policy and support services for the sector. With contributions from the Centre’s team of senior business advisers and from leading Australian researchers who worked closely with the Centre –including experts on design-led innovation and the creative economy – and case studies of leading Australia creative businesses, the book is intended as and industry-relevant contribution to business development and public policy. Content links to the publicly accessible Creative Industries Innovation Centre Collection Archive at the UTS Library, which holds material from Centre’s activities over its six years of operation.",
+    "paginas": 133,
+    "arquivo": "https://library.oapen.org/bitstream/handle/20.500.12657/39696/creative-business-in-australia.pdf?sequence=1",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "9c22284a-732e-46f9-8c93-9a15b92a84fd",
+    "titulo": "Advancing U.S. Latino Entrepreneurship.",
+    "autor": "Porras, Jerry I.",
+    "language": "English",
+    "ano": 2020,
+    "categorias": [
+      "Business"
+    ],
+    "descricao": "Advancing U.S. Latino Entrepreneurship examines business formation and success among Latinos by identifying arrangements that enhance entrepreneurship and by understanding the sociopolitical contexts that shape entrepreneurial trajectories. While it is well known that Latinos make up one of the largest and fastest growing populations in the U.S., Latino-owned businesses are now outpacing this population growth and the startup business growth of all other demographic groups in the country. The institutional arrangements shaping business formation are no level playing field. Minority entrepreneurs face racism and sexism, but structural barriers are not the only obstacles that matter; there are agentic barriers and coethnics present challenges as well as support to each other. Yet minorities engage in business formation, and in doing so, change institutional arrangements by transforming the attitudes of society and the practices of policymakers. The economic future of the country is tied to the prospects of Latinos forming and growing business. The diversity of Latino experience constitutes an economic resource for those interested in forming businesses that appeal to native-born citizens and fellow immigrants alike, ranging from local to national to international markets. This book makes a substantial contribution to the literature on entrepreneurship and wealth creation by focusing on Latinos, a population vastly understudied on these topics, by describing processes and outcomes for Latino entrepreneurs. Unfairly, the dominant story of Latinos—especially Mexican Americans—is that of dispossession and its consequences. Advancing U.S. Latino Entrepreneurship makes clear the undiminished ambitions of Latinos as well as the transformative relationships among people, their practices, and the political context in which they operate. The reality of Latino entrepreneurs demands new attention and focus.",
+    "paginas": 416,
+    "arquivo": "https://muse.jhu.edu/pub/60/oa_monograph/book/73839/pdf",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "288976b2-4912-43c2-b0e8-915807928978",
+    "titulo": "Industry 4.0 – The Global Industrial Revolution: Achievements, Obstacles and Research Needs for the Digital Transformation of Industry.",
+    "autor": "Winter, Johannes",
+    "language": "English",
+    "ano": 2023,
+    "categorias": [
+      "Business"
+    ],
+    "descricao": "This Special Issue delves into the strides made, challenges encountered, and research imperatives within the realm of Industrie 4.0 from both a scientific and practical standpoint. This publication features the voices of Industrie 4.0 pioneers Henning Kagermann and Wolfgang Wahlster, as well as leaders in research and industrial application of smart manufacturing concepts.",
+    "paginas": 248,
+    "arquivo": "https://mdpi-res.com/bookfiles/book/8462/Industry_40__The_Global_Industrial_Revolution_Achievements_Obstacles_and_Research_Needs_for_the_Digital_Transformation_of_Industry.pdf?v=1751850515",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "6f0220a5-2f00-40fa-90f1-93fd0d8ab835",
+    "titulo": "Built on Value",
+    "autor": "Huang, Weiwei",
+    "language": "English",
+    "ano": 2019,
+    "categorias": [
+      "Business"
+    ],
+    "descricao": "Business; Management science; Management; Business enterprises—Finance; Manpower policy.",
+    "paginas": 482,
+    "arquivo": "https://library.oapen.org/bitstream/handle/20.500.12657/23180/1006973.pdf?sequence=1",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "4102af09-504a-48a3-976d-d3398f3775f0",
+    "titulo": "CESEE Bank Lending Survey – Spring 2023",
+    "autor": "Huang, Weiwei",
+    "language": "English",
+    "ano": 2023,
+    "categorias": [
+      "Business"
+    ],
+    "descricao": "The CESEE Bank Lending Survey is a unique instrument developed in the context of the Vienna Initiative to monitor cross-border banking activities and deleveraging in Central, Eastern and South-Eastern Europe. It serves to better understand the determinants/constraints influencing credit growth in the region and to gain forward-looking insights into the strategies of cross-border banks and market expectations regarding local financial conditions. This report presents the results of the EIB CESEE Bank Lending survey at the regional and single country levels.",
+    "paginas": 482,
+    "arquivo": "https://library.oapen.org/bitstream/handle/20.500.12657/100547/9789286155734_pdf.pdf?sequence=1",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "8f2459e0-8289-44a7-9440-4f8c58499a31",
+    "titulo": "Transnational Entrepreneurship in South East Asia",
+    "autor": "Yokoyama, Kazuko",
+    "language": "English",
+    "ano": 2020,
+    "categorias": [
+      "Business"
+    ],
+    "descricao": "This open access book brings together narratives of inbound and outbound expatriate entrepreneurship in Japan to provide a comprehensive overview of international entrepreneurship in the region. Through in-depth interviews with expatriate entrepreneurs, policymakers, and additional stakeholders it provides the reader with a solid understanding of the current landscape of international entrepreneurship as it relates to Japan and the challenges for policymakers. The topics addressed in this book include definitions of expatriate entrepreneurship, entrepreneurship policy development and implementation, concepts of mindset, cultural brokerage, community, and identity as they relate to Japanese self-initiated expatriate entrepreneurs working in South East Asia and to non-Japanese self-initiated expatriate entrepreneurs working in Japan. Additionally, the book provides an overview of issues connected to regional development and economic growth in Asia. Illustrated through carefully chosen cases from Japan, Myanmar, Thailand, Cambodia, Vietnam, and Indonesia and developed by connecting these cases to policy and interdisciplinary studies, this book is highly recommended to scholars, policymakers and practitioners who seek an in-depth and up-to-date integrated overview of the field of expatriate entrepreneurship in Asia.",
+    "paginas": 232,
+    "arquivo": "https://library.oapen.org/bitstream/handle/20.500.12657/23191/1006962.pdf?sequence=1",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "f0076077-2e99-46a4-bfb2-53f385ffb7a1",
+    "titulo": "Pathways to Supply Chain Excellence",
+    "autor": "Groznik, Ales",
+    "language": "English",
+    "ano": 2012,
+    "categorias": [
+      "Business"
+    ],
+    "descricao": "Over the last decade, supply chain management has advanced from the warehouse and logistics to strategic management. Integrating theory and practices of supply chain management, this book incorporates hands-on literature on selected topics of Value Creation, Supply Chain Management Optimization and Mass-Customization. These topics represent key building blocks in management decisions and highlight the increasing importance of the supply chains supporting the global economy. The coverage focuses on how to build a competitive supply chain using viable management strategies, operational models, and information technology. It includes a core presentation on supply chain management, collaborative planning, advanced planning and budgeting system, risk management and new initiatives such as incorporating anthropometry into design of products.",
+    "paginas": 222,
+    "arquivo": "https://mts.intechopen.com/storage/books/1344/authors_book/authors_book.pdf",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "d7b94236-bf1e-46ec-8866-b9ec9dcc6862",
+    "titulo": "Sufficiency in Business",
+    "autor": "Gossen, Maike",
+    "language": "English",
+    "ano": 2024,
+    "categorias": [
+      "Business"
+    ],
+    "descricao": "Businesses want to be sustainable but how can they promote sufficiency? Sufficiency-oriented business models focus on creating sustainable value, promoting reduced resource consumption and adjusting production volumes to planetary boundaries. The contributors to this volume present real-life examples of sufficiency-oriented companies across diverse industries. These experts share their insights on sufficiency strategies in business, barriers and opportunities discovered, and the impact on customer behavioural change. They address the far-reaching changes in business, society, and policy required for this paradigm shift and suggest future research directions.",
+    "paginas": 349,
+    "arquivo": "https://library.oapen.org/bitstream/handle/20.500.12657/90685/9783839469101.pdf?sequence=1",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "70ef0ea5-2f14-4274-bc4a-cc514afc556b",
+    "titulo": "The Rise and Development of FinTech",
+    "autor": "Teigland, Robin",
+    "language": "English",
+    "ano": 2018,
+    "categorias": [
+      "Business"
+    ],
+    "descricao": "The FinTech/InsurTech-based business models are gradually maturing and disrupting the offering and management of financial services (banking, financial and insurance) on the global stage. However, understanding of the risk landscape of the FinTech and InsurTech business models remains at an early stage due to the diverse nature of their activities and the rapid development of the field. Although FinTech and InsurTech offer the opportunity to accelerate economic growth and expand financial affordability/inclusion in all countries, they pose new risks to financial stability and integrity. This book contains five articles that offer a discussion of state-of-the-art developments or introduce new theoretical or practical advances in the identification, measurement and management of the risks arising from the FinTech/InsurTech-based business models.",
+    "paginas": 467,
+    "arquivo": "https://library.oapen.org/bitstream/handle/20.500.12657/76018/9781351183611.pdf?sequence=1",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "ddf56c9b-89c3-4585-81f9-85c1b01f718c",
+    "titulo": "The Future of Money",
+    "autor": "Mellor, Mary",
+    "language": "English",
+    "ano": 2010,
+    "categorias": [
+      "Business"
+    ],
+    "descricao": "As the recent financial crisis has revealed, the state is central to the stability of the money system, while the chaotic privately-owned banks reap the benefits without shouldering the risks. This book argues that money is a public resource that has been hijacked by capitalism. Mary Mellor explores the history of money and modern banking, showing how finance capital has captured bank-created money to enhance speculative ‘leveraged’ profits as well as destroying collective approaches to economic life. Meanwhile, most individuals, and the public economy, have been mired in debt. To correct this obvious injustice, Mellor proposes a public and democratic future for money. Ways are put forward for structuring the money and banking system to provision societies on an equitable, ecologically sustainable ‘sufficiency’ basis. This fascinating study of money should be read by all economics students looking for an original analysis of the economy during the current crisis.",
+    "paginas": 209,
+    "arquivo": "https://library.oapen.org/bitstream/handle/20.500.12657/76018/9781351183611.pdf?sequence=1",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "65a87189-32da-4e78-92c8-863278f897ba",
+    "titulo": "Alianças estratégicas: uma análise bibliométrica da produção científica entre 1989 e 2008",
+    "autor": "Adalberto Américo Fischmann",
+    "language": "Português",
+    "ano": 2010,
+    "categorias": [
+      "Business"
+    ],
+    "descricao": "Considera-se pertinente a organização de dados sobre a produção científica de um período, uma vez que tal movimento contribui para a continuidade das investigações e a evolução de determinada área do conhecimento. O propósito principal deste estudo, portanto, é analisar quantitativamente o que se produziu no campo das alianças estratégicas entre 1989 e 2008. Apoiando-se em técnicas bibliométricas e na pesquisa bibliográfica, foi possível encontrar 66 expressões que conduzem pesquisadores aos mais variados conteúdos sobre o tema em questão. Além disso, a partir de consultas às bases ISI Web of Knowledge e Scopus constituíram-se duas amostras, respectivamente, com 2.747 e 2.813 pesquisas publicadas, que permitiram a identificação dos autores, artigos e periódicos mais referenciados por estudiosos em todo o mundo. Este trabalho, então, torna-se um importante aliado no desenvolvimento de novas ideias, conceitos e perspectivas de abordagens sobre alianças estratégicas.","paginas": 23,
+    "arquivo": "http://www.dominiopublico.gov.br/download/texto/fs000230.pdf",
+    "tipo_documento": "Livro"
+  }
+]
