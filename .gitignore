@@ -1,0 +1,195 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+docs/_output/
+build/
+# PyBuilder
+target/
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Pyre type checker
+.pyre/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytype
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Spyder project settings
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# pyright
+typings/
+
+# virtualenv
+pip-selfcheck.json
+
+# PyCharm test helpers
+.pytest_cache/
+pytestdebug.log
+
+# Local configuration
+*.local
+*.env
+
+# Docker
+*.pid
+*.seed
+*.pid.lock
+
+# system files
+.DS_Store
+Thumbs.db
+
+# SQLite database
+*.sqlite3
+
+# VS Code
+.history/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenv (Poetry)
+# (Poetry normalmente cria um ambiente virtual fora do projeto, então esses não são commitados. Mas caso esteja usando in-project venvs:)
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Environments
+.env
+
+# VS Code
+.vscode/
+.history/
+
+# IDEs
+.idea/
+.spyproject/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+.tox/
+.nox/
+.dmypy.json
+.mypy_cache/
+.pyre/
+
+# OS
+.DS_Store
+Thumbs.db

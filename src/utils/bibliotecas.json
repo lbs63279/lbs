@@ -1,0 +1,163 @@
+[
+    {
+      "Nome": "SciELO Brasil",
+      "Descricao": "Uma base de dados que oferece acesso a periódicos científicos de diversas áreas, incluindo administração e finanças.",
+      "Link": "https://www.scielo.br/"
+    },
+    {
+      "Nome": "Portal de Periódicos da CAPES",
+      "Descricao": "Acesso a uma vasta coleção de periódicos acadêmicos, incluindo áreas de negócios e ciências sociais.",
+      "Link": "https://www.periodicos.capes.gov.br/"
+    },
+    {
+      "Nome": "BVS - Biblioteca Virtual em Saúde",
+      "Descricao": "Embora focada em saúde, possui seções que abordam gestão e administração em contextos de saúde.",
+      "Link": "https://bvsalud.org/"
+    },
+    {
+      "Nome": "IBGE",
+      "Descricao": "O Instituto Brasileiro de Geografia e Estatística oferece dados e estatísticas que podem ser úteis para análises de mercado e finanças.",
+      "Link": "https://www.ibge.gov.br/"
+    },
+    {
+      "Nome": "Associação Brasileira de Normas Técnicas – ABNT",
+      "Descricao": "Oferece informações sobre normas técnicas, serviços de elaboração, revisão e consultoria para empresas, além de disponibilizar as normas oficiais brasileiras em diversas áreas. Também oferece cursos e eventos relacionados à normalização.",
+      "Link": "http://www.abnt.org.br/normalizacao/abnt-catalogo"
+    },
+    {
+      "Nome": "Análises Macroeconômicas | Itaú BBA",
+      "Descricao": "Oferece relatórios e insights sobre a economia brasileira e global, com foco em tendências macroeconômicas, políticas fiscais e monetárias, previsões e análises detalhadas.",
+      "Link": "https://www.itau.com.br/itaubba-pt/analises-economicas"
+    },
+    {
+      "Nome": "Institute of Education Sciences",
+      "Descricao": "Fornece dados, pesquisas e relatórios sobre a educação nos Estados Unidos, incluindo avaliação educacional, políticas públicas e práticas pedagógicas.",
+      "Link": "https://eric.ed.gov/"
+    },
+    {
+      "Nome": "IPA Instituto de Pesquisas Ambientais",
+      "Descricao": "Oferece publicações científicas, relatórios técnicos e boletins informativos disponíveis gratuitamente.",
+      "Link": "https://www.infraestruturameioambiente.sp.gov.br/ipa/"
+    },
+    {
+      "Nome": "ICE (Instituto de Cidadania Empresarial)",
+      "Descricao": "Disponibiliza publicações e relatórios sobre investimentos e negócios de impacto social gratuitamente.",
+      "Link": "https://ice.org.br/"
+    },
+    {
+      "Nome": "IPEA Instituto de Pesquisa Econômica Aplicada",
+      "Descricao": "Realiza estudos e análises sobre economia, políticas públicas e desenvolvimento no Brasil.",
+      "Link": "https://www.ipea.gov.br/"
+    },
+    {
+      "Nome": "Repositório Científico de Acesso Aberto de Portugal",
+      "Descricao": "Reúne e disponibiliza publicações científicas de instituições portuguesas, como artigos, teses e dissertações.",
+      "Link": "https://www.rcaap.pt/"
+    },
+    {
+      "Nome": "SIDRA Sistema IBGE de recuperação automática",
+      "Descricao": "Plataforma do IBGE que disponibiliza dados estatísticos em tabelas dinâmicas sobre economia, população, agricultura e outros.",
+      "Link": "https://sidra.ibge.gov.br/home/pms/brasil"
+    },
+    {
+      "Nome": "JSTOR",
+      "Descricao": "Biblioteca digital que oferece acesso a periódicos acadêmicos, livros e fontes primárias em diversas áreas.",
+      "Link": "https://www.jstor.org/"
+    },
+    {
+      "Nome": "Google Scholar",
+      "Descricao": "Motor de busca que indexa literatura acadêmica de diversas áreas.",
+      "Link": "https://scholar.google.com/"
+    },
+    {
+      "Nome": "SSRN (Social Science Research Network)",
+      "Descricao": "Base de dados com artigos de pesquisa em ciências sociais, incluindo administração e finanças.",
+      "Link": "https://www.ssrn.com/"
+    },
+    {
+      "Nome": "Networked Digital Library of Theses and Dissertations (NDLTD)",
+      "Descricao": "Biblioteca digital internacional de teses e dissertações com acesso aberto à produção acadêmica.",
+      "Link": "http://search.ndltd.org/"
+    },
+    {
+      "Nome": "Dialnet",
+      "Descricao": "Base de dados com acesso a artigos acadêmicos e teses em diversas áreas.",
+      "Link": "https://dialnet.unirioja.es/"
+    },
+    {
+      "Nome": "Redalyc",
+      "Descricao": "Rede de revistas científicas com foco em ciências sociais e humanas.",
+      "Link": "https://www.redalyc.org/"
+    },
+    {
+      "Nome": "Latindex",
+      "Descricao": "Sistema de informação sobre revistas científicas da América Latina, Caribe, Espanha e Portugal.",
+      "Link": "https://www.latindex.org/"
+    },
+    {
+      "Nome": "Eumed.net",
+      "Descricao": "Plataforma com conteúdo gratuito em Economia, Direito, Educação e Ciências Sociais.",
+      "Link": "http://Eumed.net"
+    },
+    {
+      "Nome": "Revista de Administração de Empresas (RAE)",
+      "Descricao": "Publica artigos sobre administração, gestão e negócios.",
+      "Link": "https://periodicos.fgv.br/rae"
+    },
+    {
+      "Nome": "Revista Brasileira de Gestão de Negócios (RBGN)",
+      "Descricao": "Aborda temas como estratégia, inovação, finanças, marketing e sustentabilidade.",
+      "Link": "https://rbgn.fecap.br/RBGN"
+    },
+    {
+      "Nome": "Revistas de Administração da USP",
+      "Descricao": "Publicações acadêmicas da USP com foco em administração e negócios.",
+      "Link": "https://www.revistas.usp.br/rausp"
+    },
+    {
+      "Nome": "Portal para periódicos de livre acesso na internet",
+      "Descricao": "Reúne periódicos acadêmicos e científicos nacionais e internacionais gratuitos.",
+      "Link": "https://livre.cnen.gov.br/"
+    },
+    {
+      "Nome": "Elsevier",
+      "Descricao": "Conteúdo acadêmico em economia, administração, empreendedorismo, finanças e marketing. Inclui ScienceDirect e Scopus.",
+      "Link": "https://www.elsevier.com/pt-br"
+    },
+    {
+      "Nome": "Journal of Business Research",
+      "Descricao": "Publica pesquisas sobre marketing, finanças e comportamento do consumidor.",
+      "Link": "https://www.sciencedirect.com/journal/journal-of-business-research"
+    },
+    {
+      "Nome": "Entrepreneurship Theory and Practice",
+      "Descricao": "Focada em pesquisas sobre empreendedorismo. (Ver assinatura)",
+      "Link": "https://journals.sagepub.com/home/etp"
+    },
+    {
+      "Nome": "The Journal of Finance",
+      "Descricao": "Publicação sobre finanças, incluindo investimentos e mercados financeiros. (Ver assinatura)",
+      "Link": "https://onlinelibrary.wiley.com/journal/15406261"
+    },
+    {
+      "Nome": "Academy of Management Journal",
+      "Descricao": "Publica pesquisas sobre gestão, organização, liderança e habilidades interpessoais. (Ver assinatura)",
+      "Link": "https://aom.org/research/journals/journal"
+    },
+    {
+      "Nome": "DIRECTORY OPEN ACCESS JOURNALS",
+      "Descricao": "Diretório de revistas eletrônicas de acesso aberto mantido pela Lund University Libraries.",
+      "Link": "https://doaj.org/"
+    },
+    {
+      "Nome": "Vídeo-aulas USP",
+      "Descricao": "Vídeo-aulas USP nas áreas de administração, economia, matemática e estatística oferecem uma abordagem integrada para entender a análise de dados e a tomada de decisões. Elas cobrem tópicos como modelos matemáticos, técnicas estatísticas e suas aplicações em contextos administrativos e econômicos. O conteúdo é projetado para capacitar alunos e profissionais a utilizarem ferramentas quantitativas na resolução de problemas práticos.",
+      "Link": "https://eaulas.usp.br/portal/home"
+    },
+    {
+      "Nome": "The Babson Collaborative",
+      "Descricao": "Oferece uma plataforma para colaboração entre membros da comunidade acadêmica, permitindo acesso a recursos, informações e ferramentas de networking. Os usuários podem compartilhar ideias, participar de discussões e acessar materiais relevantes para suas atividades.",
+      "Link": "https://www.babsoncollaborative.org/"
+    }
+  ]
+  

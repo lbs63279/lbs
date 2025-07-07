@@ -1,0 +1,25 @@
+[project]
+name = "lbs"
+version = "0.1.0"
+description = "Link Business School Library"
+authors = [
+    {name = "LBS"}
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "requests (>=2.32.4,<3.0.0)",
+    "python-dotenv (>=1.1.0,<2.0.0)",
+    "sqlalchemy (>=2.0.41,<3.0.0)",
+    "pymysql (>=1.1.1,<2.0.0)",
+    "fastapi[standard] (>=0.115.13,<0.116.0)",
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.group.dev.dependencies]
+uvicorn = "^0.34.3"
+
