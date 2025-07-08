@@ -206,7 +206,8 @@ def flatten_podcasts(podcasts: list[dict]) -> list[dict]:
                 "duracao_ms": episodio["duracao_ms"],
                 "url": episodio["url"],
                 "embed_url": episodio["embed_url"],
-                "imagem_url": episodio["imagem_url"]
+                "imagem_url": episodio["imagem_url"],
+                "categorias": episodio.get("categorias", [])
             })
     return episodios_flat
 
