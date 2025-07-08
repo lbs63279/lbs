@@ -215,7 +215,7 @@ def flatten_podcasts(podcasts: list[dict]) -> list[dict]:
 @router.get("/conteudo-lbs")
 def obter_conteudo_lbs(
     db: Session = Depends(get_db),
-    tipo: Literal["podcast", "livro", "aula", "biblioteca"] = Query("podcast"),
+    tipo: Literal["podcast", "livro", "aula", "biblioteca", "artigos"] = Query("podcast"),
     page: int = Query(1, gt=0),
     limit: int = Query(10, gt=0, le=100)
 ):
