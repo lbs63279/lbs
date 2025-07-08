@@ -77,6 +77,25 @@ def obter_livros_pdf():
 
     return livros
 
+def obter_artigos_pdf():
+    artigos = []
+
+    caminho_json = os.path.join(os.path.dirname(__file__), "..", "utils", "artigos.json")
+    caminho_json = os.path.abspath(caminho_json)
+
+    if not os.path.exists(caminho_json):
+        print("[DEBUG] Arquivo JSON não encontrado:", caminho_json)
+        return artigos
+
+    try:
+        with open(caminho_json, "r", encoding="utf-8") as f:
+            artigos = json.load(f)
+            print(f"[DEBUG] {len(artigos)} livro(s) carregado(s) do JSON.")
+    except Exception as e:
+        print("[ERRO] Falha ao ler o JSON:", e)
+
+    return artigos
+
 def inserir_videos_youtube(palavra_chave="negócios", max_results=10):
     api_key = os.getenv("YOUTUBE_API_KEY")
     if not api_key:
@@ -202,6 +221,7 @@ def obter_conteudo_lbs(
     podcasts = obter_podcasts()
     aulas = obter_aulas_youtube()
     livros = obter_livros_pdf()
+    artigos = obter_artigos_pdf()
 
     caminho_bibliotecas = Path(__file__).resolve().parent.parent / "utils" / "bibliotecas.json"
     try:
@@ -214,7 +234,8 @@ def obter_conteudo_lbs(
         "podcast": flatten_podcasts(podcasts),
         "livro": livros,
         "aula": aulas,
-        "biblioteca": bibliotecas
+        "biblioteca": bibliotecas,
+        "artigos": artigos,
     }
 
     todos_itens = conteudo_formatado[tipo]
@@ -258,6 +279,17 @@ def obter_livro_por_id(livro_id: str):
 @router.get("/conteudo-lbs/aula/{aula_id}")
 def obter_aula_por_id(aula_id: str):
     aulas = obter_aulas_youtube()
+    aula = next((a for a in aulas if str(a.get("id")) == aula_id), None)
+
+    if not aula:
+        raise HTTPException(status_code=404, detail="Aula não encontrada.")
+
+    return aula
+
+
+@router.get("/conteudo-lbs/artigos/{aula_id}")
+def obter_aula_por_id(aula_id: str):
+    aulas = obter_artigos_pdf()
     aula = next((a for a in aulas if str(a.get("id")) == aula_id), None)
 
     if not aula:
