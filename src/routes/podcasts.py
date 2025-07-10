@@ -9,6 +9,8 @@ from src.services.spotify_service import obter_token_acesso, obter_top_podcasts
 from pathlib import Path
 import json 
 from fastapi.responses import FileResponse
+from fastapi import Request
+
 
 router = APIRouter(prefix="/api/v1", tags=["Podcasts"])
 
@@ -308,3 +310,66 @@ def obter_podcast_por_id(podcast_id: str):
         raise HTTPException(status_code=404, detail="Podcast não encontrado.")
 
     return flatten_podcasts(podcasts)
+
+
+@router.get("/conteudo-lbs/search")
+def buscar_conteudos_por_titulo(
+    q: str = Query(..., description="Palavra-chave da busca"),
+    page: int = Query(1, gt=0),
+    limit: int = Query(10, gt=0, le=100),
+    request: Request = None
+):
+    q_lower = q.strip().lower()
+
+    podcasts = flatten_podcasts(obter_podcasts())
+    aulas = obter_aulas_youtube()
+    livros = obter_livros_pdf()
+    artigos = obter_artigos_pdf()
+
+    caminho_bibliotecas = Path(__file__).resolve().parent.parent / "utils" / "bibliotecas.json"
+    try:
+        with open(caminho_bibliotecas, encoding="utf-8") as f:
+            bibliotecas = json.load(f)
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Erro ao carregar bibliotecas: {str(e)}")
+
+    todos_conteudos = []
+
+    for item in podcasts:
+        if q_lower in item.get("episodio_titulo", "").lower():
+            item["tipo"] = "podcast"
+            todos_conteudos.append(item)
+
+    for item in aulas:
+        if q_lower in item.get("titulo", "").lower():
+            item["tipo"] = "aula"
+            todos_conteudos.append(item)
+
+    for item in livros:
+        if q_lower in item.get("titulo", "").lower():
+            item["tipo"] = "livro"
+            todos_conteudos.append(item)
+
+    for item in artigos:
+        if q_lower in item.get("titulo", "").lower():
+            item["tipo"] = "artigo"
+            todos_conteudos.append(item)
+
+    for item in bibliotecas:
+        if q_lower in item.get("titulo", "").lower():
+            item["tipo"] = "biblioteca"
+            todos_conteudos.append(item)
+
+    total = len(todos_conteudos)
+    start = (page - 1) * limit
+    end = start + limit
+    itens_paginados = todos_conteudos[start:end]
+
+    return {
+        "query": q,
+        "page": page,
+        "limit": limit,
+        "total": total,
+        "totalPages": (total + limit - 1) // limit,
+        "conteudo": itens_paginados
+    }
