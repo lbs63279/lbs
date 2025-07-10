@@ -302,14 +302,33 @@ def obter_aula_por_id(aula_id: str):
 
 
 @router.get("/conteudo-lbs/podcast/{podcast_id}")
-def obter_podcast_por_id(podcast_id: str):
+def obter_podcast_ou_episodio_por_id(podcast_id: str):
     podcasts = obter_podcasts()
+
     podcast = next((p for p in podcasts if str(p.get("id")) == podcast_id), None)
+    if podcast:
+        return flatten_podcasts([podcast])
 
-    if not podcast:
-        raise HTTPException(status_code=404, detail="Podcast não encontrado.")
+    for p in podcasts:
+        episodio = next((e for e in p.get("episodios", []) if str(e.get("id")) == podcast_id), None)
+        if episodio:
+            return [{
+                "tipo": "podcast",
+                "podcast_id": p["id"],
+                "podcast_titulo": p["titulo"],
+                "publicador": p["publicador"],
+                "episodio_id": episodio["id"],
+                "episodio_titulo": episodio["titulo"],
+                "descricao": episodio["descricao"],
+                "data_lancamento": episodio["data_lancamento"],
+                "duracao_ms": episodio["duracao_ms"],
+                "url": episodio["url"],
+                "embed_url": episodio["embed_url"],
+                "imagem_url": episodio["imagem_url"],
+                "categorias": episodio.get("categorias", [])
+            }]
 
-    return flatten_podcasts(podcasts)
+    raise HTTPException(status_code=404, detail="Podcast ou episódio não encontrado.")
 
 
 @router.get("/conteudo-lbs/search")
