@@ -197,7 +197,7 @@ def flatten_podcasts(podcasts: list[dict]) -> list[dict]:
     for podcast in podcasts:
         for episodio in podcast.get("episodios", []):
             episodios_flat.append({
-                "tipo": "podcast",
+                "tipo": "Negócios",
                 "podcast_id": podcast["id"],
                 "podcast_titulo": podcast["titulo"],
                 "publicador": podcast["publicador"],
