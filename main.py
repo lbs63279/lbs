@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from src.core.database import Base, engine
 from src.routes import podcasts
 import os
@@ -9,8 +10,14 @@ app = FastAPI(
     version="1.0.0"
 )
 
-# Cria tabelas
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"], 
+    allow_credentials=True,
+    allow_methods=["*"], 
+    allow_headers=["*"], 
+)
+
 Base.metadata.create_all(bind=engine)
 
-# Inclui as rotas
 app.include_router(podcasts.router)
