@@ -671,7 +671,133 @@
     "paginas": 270,
     "arquivo": "https://livroaberto.ibict.br/bitstream/123456789/674/1/2%c2%aa%20Confer%c3%aancia%20Nacional%20de%20Ci%c3%aancia%2c%20Tecnologia%20e%20Inova%c3%a7%c3%a3o%20em%20Sa%c3%bade%20Anais.%20pdf.pdf",
     "tipo_documento": "Livro"
-  }
-  
-  
+  },
+  {
+    "id": "d1f9e6c2a8b14303bfb2e4a99f1d2a3e",
+    "titulo": "Ciência e tecnologia no Brasil: uma nova política para um mundo global.",
+    "autor": "Schwartzman, Simon (Coord.)",
+    "language": "Português",
+    "ano": 1993,
+    "categorias": [
+      "Tecnologia"
+    ],
+    "descricao": "O trabalho fala sobre o grande avanço cientifico e tecnológico que o Brasil teve durante um período, mas como a falta de novos recursos prejudica o avanço dessas áreas. É um estudo desenvolvido por um grupo independente de cientistas, economistas e especialistas em política científica no Brasil e no exterior, que produziu cerca de quarenta trabalhos sobre o contexto internacional, a capacitação do Brasil em ciência e tecnologia, os vínculos entre a ciência e tecnologia e a economia, e sobre as instituições brasileiras de financiamento à ciência e tecnologia.",
+    "paginas": 59,
+    "arquivo": "http://www.schwartzman.org.br/simon/scipol/novapol.pdf",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "f3a7d8e1b2c64f57a8f3a2c4d6e9c0b4",
+    "titulo": "Ciência e Tecnologia: leis e regulamentações",
+    "autor": "Brasil. Senado Federal",
+    "language": "Português",
+    "ano": 2008,
+    "categorias": [
+      "Tecnologia"
+    ],
+    "descricao": "Trata-se de um documento que elenca as leis e as regulamentações sobre Ciência e Tecnologia no Brasil.",
+    "paginas": 236,
+    "arquivo": "https://livroaberto.ibict.br/bitstream/123456789/583/2/Ciencia_e_Tecnologia%20leis%20e%20regulamenta%c3%a7%c3%b5es.pdf",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "b7c92e6f3d624bfa8e1d9a1e5a6c3f7d",
+    "titulo": "Um espaço para ciência: a formação da comunidade científica no Brasil.",
+    "autor": "Schwartzman, Simon",
+    "language": "Português",
+    "ano": 2001,
+    "categorias": [
+      "Tecnologia"
+    ],
+    "descricao": "Este livro resgata as origens da formação da comunidade científica no Brasil, através de uma pesquisa feita em duas frentes: entrevistas com cerca de 70 cientistas (que desempenharam papéis importantes na história da ciência brasileira) e coleta da bibliografia existente até então, a respeito da história de nossa ciência. Além de ajudar a estabelecer a área de estudos sociais e históricos sobre a ciência e a tecnologia no Brasil, campo que se expandiu e se transformou muito desde então. Muitos dos temas e informações tratadas têm sido objeto de estudos mais detalhados e aprofundados, o que torna a tarefa de refazer a história da ciência brasileira algo muito mais difícil do que foi a preparação da primeira edição deste trabalho.",
+    "paginas": 276,
+    "arquivo": "http://www.schwartzman.org.br/simon/spacept/espaco.htm",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "9fc1fbe2a4c74804a01c3d4e7f1ac2f9",
+    "titulo": "Diagnóstico de C&T no Brasil",
+    "autor": "Rangel, Armênio Souza",
+    "language": "Português",
+    "ano": 1995,
+    "categorias": [
+      "Tecnologia"
+    ],
+    "descricao": "Documento discute sobre a necessidade de acompanhar trabalhos que tratem de questões centrais relacionadas com o desempenho do sistema de C&T no Brasil.",
+    "paginas": 13,
+    "arquivo": "https://livroaberto.ibict.br/bitstream/123456789/970/1/10348%20-%20Diagnstico%20de%20C%26T%20no%20Brasil.pdf",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "e6c4a3d9b8f942a3a2f1c8d7f5e9a4b2",
+    "titulo": "Ciência, Tecnologia e Inovação para o desenvolvimento nacional: o papel do MCT",
+    "autor": "Brasil. Ministério da Ciência e Tecnologia",
+    "language": "Português",
+    "ano": 2005,
+    "categorias": [
+      "Tecnologia"
+    ],
+    "descricao": "Publicação aborda a evolução da ciência e tecnologia no Brasil e aponta as metas planejadas para os dias de hoje.",
+    "paginas": 68,
+    "arquivo": "https://livroaberto.ibict.br/bitstream/123456789/972/1/Ciencia_tecnologia_inovacao_desenvolvimento_nacional_papel_MCT-1.pdf",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "bfc72a00ac1346dbab3ad7f47e842c9d",
+    "titulo": "Indicadores de Pesquisa Desenvolvimento e Ciência Tecnologia – 2000.",
+    "autor": "Brasil. Ministério da Ciência e Tecnologia",
+    "language": "Português",
+    "ano": 2002,
+    "categorias": [
+      "Tecnologia"
+    ],
+    "descricao": "Esta publicação é resultado do grande esforço que o MCT tem realizado, desde 2000, para organizar e sistematizar as informações sobre as atividades de Ciência e Tecnologia no Brasil , definindo padrões metodológicos rígidos e transparentes e ampliando substancialmente o escopo dos indicadores nacionais. Os indicadores hoje disponíveis - parcialmente apresentados nessa publicação - cobrem uma ampla gama temática e, em sua maioria, estão assentados em referências metodológicas internacionais.",
+    "paginas": 89,
+    "arquivo": "https://livroaberto.ibict.br/bitstream/123456789/680/1/Indicadores%20de%20Pesquisa%20%26%20Desenvolvimento%20e%20Ci%C3%AAncia%20%26%20Tecnologia%20-%202000.pdf.pdf",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "6fd1e79bc3f94818928d1246c2500d10",
+    "titulo": "Inovações tecnológicas em cadeias produtivas selecionadas: oportunidades de negócios para o município de Recife (PE).",
+    "autor": "Brasil. Ministério da Ciência, Tecnologia e Inovação",
+    "language": "Português",
+    "ano": 2011,
+    "categorias": [
+      "Tecnologia"
+    ],
+    "descricao": "Este documento apresenta o estudo “Inovações tecnológicas em cadeias produtivas selecionadas”, realizado pelo Centro de Gestão e Estudos Estratégicos (CGEE), que tem como objetivo geral “contribuir para a dinamização da economia do Município do Recife e para a inovação tecnológica nas principais cadeias produtivas do Município\".",
+    "paginas": 100,
+    "arquivo": "https://livroaberto.ibict.br/bitstream/123456789/678/1/Inova%C3%A7%C3%B5es%20tecnol%C3%B3gicas%20em%20cadeias%20produtivas%20selecionadas.pdf.pdf",
+    "tipo_documento": "Relatório de pesquisa"
+  },
+  {
+    "id": "e3b3b5b6c7f84112a12e68c2b3a909e8",
+    "titulo": "Tecnologia industrial básica: trajetória, desafios e tendências no Brasil",
+    "autor": "Brasil. Ministério da Ciência e Tecnologia. Confederação Nacional da Indústria. Serviço Nacional de Aprendizagem Industrial. Instituto Euvaldo Lodi",
+    "language": "Português",
+    "ano": 2005,
+    "categorias": [
+      "Tecnologia",
+      "Política industrial",
+      "Competitividade industrial"
+    ],
+    "descricao": "O livro fala sobre a história da tecnologia industrial básica e acompanha artigos técnicos sobre os desafios e tendências nas áreas correspondentes, para que os gestores de hoje e de amanhã tenham a exata medida do que deveremos ainda construir.",
+    "paginas": 177,
+    "arquivo": "https://livroaberto.ibict.br/bitstream/123456789/856/2/Tecnologia%20industrial%20basica.pdf",
+    "tipo_documento": "Livro técnico"
+  },
+  {
+    "id": "8a9d6f80fa304fbfa2b4a84b3e523e5b",
+    "titulo": "Cronologia do desenvolvimento científico, tecnológico e industrial brasileiro 1938-2003",
+    "autor": "Brasil. Ministério do Desenvolvimento, Indústria e Comércio Exterior. Secretaria de Tecnologia Industrial. Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (SEBRAE)",
+    "language": "Português",
+    "ano": 2005,
+    "categorias": [
+      "Desenvolvimento industrial"
+    ],
+    "descricao": "Esta cronologia representa a continuação de um esforço de enumerar os principais marcos do processo de desenvolvimento científico, tecnológico e industrial brasileiro que se iniciou com a edição de uma cronologia comemorativa dos cinquenta anos do CNPq. Trata-se de uma iniciativa que visa resgatar a memória de um processo fundamental do desenvolvimento do Brasil, além de fornecer subsídios para a nova política industrial e tecnológica do Governo Federal.",
+    "paginas": 690,
+    "arquivo": "https://livroaberto.ibict.br/bitstream/123456789/864/1/CRONOLOGIA%20do%20desenvolvimento%20cient%c3%adfico%20e%20tecnol%c3%b3gico%20brasileiro.pdf",
+    "tipo_documento": "Livro"
+  } 
 ]
