@@ -381,7 +381,8 @@
         "data_publicacao": "desconhecida",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "6577440ed08ce63288b6a0adf6df3b61e8d01cb498449da535ad9447e3a2761c"
+        "id": "6577440ed08ce63288b6a0adf6df3b61e8d01cb498449da535ad9447e3a2761c",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "CORPORATE SOCIAL RESPONSIBILITY IN ROMANIA",
@@ -391,7 +392,8 @@
         "data_publicacao": "desconhecida",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "9e36cf632c868552a242ce81186f1e72a7dd5e584940f88d75874f2d27e20275"
+        "id": "9e36cf632c868552a242ce81186f1e72a7dd5e584940f88d75874f2d27e20275",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Improving water productivity: how do we get more crop from every drop",
@@ -401,7 +403,8 @@
         "data_publicacao": "desconhecida",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "4875c939b97893b6b213dc6ef1b3bc80e6c669208acaf2659106553f81d2480b"
+        "id": "4875c939b97893b6b213dc6ef1b3bc80e6c669208acaf2659106553f81d2480b",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Management as a system: creating value",
@@ -411,7 +414,8 @@
         "data_publicacao": "2019-01-04T15:30:54",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "c20754721677fbf34276ae06fd7707cf69bf4f4be531a177657c1b65b8ea7b5c"
+        "id": "c20754721677fbf34276ae06fd7707cf69bf4f4be531a177657c1b65b8ea7b5c",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Sixth quarterly activities report on the Cooperative Agreement No.391-0467-A-00-1818-00: Irrigation research (period from December 1992 to February 1993). Part 1: Irrigation Systems Management Research Project",
@@ -421,7 +425,8 @@
         "data_publicacao": "desconhecida",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "0fde594ee2e033bc242394f0a119277d86e1c37bb0b6b93243d8d1d68ea11e96"
+        "id": "0fde594ee2e033bc242394f0a119277d86e1c37bb0b6b93243d8d1d68ea11e96",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Improving soils and boosting yields in Thailand",
@@ -431,7 +436,8 @@
         "data_publicacao": "desconhecida",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "82303f5ff72b70ee99b7dbfd2c1662f990e6b937ab6a3891e1c7c6ee951ef003"
+        "id": "82303f5ff72b70ee99b7dbfd2c1662f990e6b937ab6a3891e1c7c6ee951ef003",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Improving performance and financial viability of irrigation systems in India and China",
@@ -441,7 +447,8 @@
         "data_publicacao": "desconhecida",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "af0fc0b6d8ce08ff64a0a52ef2bdbc7c386362735cb8a4581f0dfe49fce8b943"
+        "id": "af0fc0b6d8ce08ff64a0a52ef2bdbc7c386362735cb8a4581f0dfe49fce8b943",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "IWRM challenges in developing countries: lessons from India and elsewhere",
@@ -451,7 +458,8 @@
         "data_publicacao": "desconhecida",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "ebb1aa7327a79e6ef6cb4e1de4ae0752330b823f1a6091b28a6ade11c9a50fdf"
+        "id": "ebb1aa7327a79e6ef6cb4e1de4ae0752330b823f1a6091b28a6ade11c9a50fdf",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "IWMI Research Update: news of the progress and impact of IWMI's research",
@@ -461,7 +469,8 @@
         "data_publicacao": "desconhecida",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "a9d1fb8daaf774fddde61630c1ec7fe92f84c708e3538eecd8a72d563099ff2b"
+        "id": "a9d1fb8daaf774fddde61630c1ec7fe92f84c708e3538eecd8a72d563099ff2b",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Sharing water equitably in the Ferghana Valley, Central Asia",
@@ -471,7 +480,8 @@
         "data_publicacao": "desconhecida",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "1a6cae5a82af86fc14374514ca5ee134fe71b82811fa660f7263f2ac3a2e0bb8"
+        "id": "1a6cae5a82af86fc14374514ca5ee134fe71b82811fa660f7263f2ac3a2e0bb8",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Software engineering",
@@ -481,7 +491,8 @@
         "data_publicacao": "desconhecida",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "8a8216089f0659480c6a60793153379a33200140ba99825d746eb321098cecdb"
+        "id": "8a8216089f0659480c6a60793153379a33200140ba99825d746eb321098cecdb",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Software engineering activities at SEI (Software Engineering Institute)",
@@ -491,7 +502,8 @@
         "data_publicacao": "desconhecida",
         "categoria": "Tecnologia",
         "idioma": "Inglês",
-        "id": "4f1b1f9c738da18b7808386b1ab9b68a20cbd6d67c91d28bd7dcc5a427caa8ad"
+        "id": "4f1b1f9c738da18b7808386b1ab9b68a20cbd6d67c91d28bd7dcc5a427caa8ad",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Sustainability in Software Engineering",
@@ -501,7 +513,8 @@
         "data_publicacao": "2018-06-14T00:00:00",
         "categoria": "Tecnologia",
         "idioma": "Inglês",
-        "id": "914830d0954b367a010d8a85094e3de26985a9e1161c2fe67d036f9ca6b749bf"
+        "id": "914830d0954b367a010d8a85094e3de26985a9e1161c2fe67d036f9ca6b749bf",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Software engineering (Encylopedia entry)",
@@ -511,7 +524,8 @@
         "data_publicacao": "2000-01-01T00:00:00",
         "categoria": "Tecnologia",
         "idioma": "Inglês",
-        "id": "b83caaf843611c658a7a501f552d62b068866f4d53d9c8717b23f4aa6d2f047e"
+        "id": "b83caaf843611c658a7a501f552d62b068866f4d53d9c8717b23f4aa6d2f047e",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Software engineering ethics",
@@ -521,7 +535,8 @@
         "data_publicacao": "desconhecida",
         "categoria": "Tecnologia",
         "idioma": "Inglês",
-        "id": "9cbb54a76ca78f90a2c995e0706bd3a8ae3abb78c358082198fe46469fc592e3"
+        "id": "9cbb54a76ca78f90a2c995e0706bd3a8ae3abb78c358082198fe46469fc592e3",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Controversies in software engineering",
@@ -531,7 +546,8 @@
         "data_publicacao": "2004-11-11T00:00:00",
         "categoria": "Tecnologia",
         "idioma": "Inglês",
-        "id": "1d329dcf76962c20632d3f2a4bcdd28dc2d8f00e9878b140f70f06c84a589ba2"
+        "id": "1d329dcf76962c20632d3f2a4bcdd28dc2d8f00e9878b140f70f06c84a589ba2",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Ethical Issues in Empirical Studies of Software Engineering",
@@ -541,7 +557,8 @@
         "data_publicacao": "2002-12-01T00:00:00",
         "categoria": "Tecnologia",
         "idioma": "Inglês",
-        "id": "c66f22c82ff5e83b852ca17b60b49e6b759aec41b14e48c5de29e96609e02ca0"
+        "id": "c66f22c82ff5e83b852ca17b60b49e6b759aec41b14e48c5de29e96609e02ca0",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "International conference on software engineering and knowledge engineering: Session chair",
@@ -551,7 +568,8 @@
         "data_publicacao": "2018-07-01T01:00:00",
         "categoria": "Tecnologia",
         "idioma": "Inglês",
-        "id": "16d1e77d706e97eb902efb90b3614c1b3168e9827147bb29900fcd0b79716d67"
+        "id": "16d1e77d706e97eb902efb90b3614c1b3168e9827147bb29900fcd0b79716d67",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Cloud engineering is search based software engineering too",
@@ -561,7 +579,8 @@
         "data_publicacao": "2013-09-01T00:00:00",
         "categoria": "Tecnologia",
         "idioma": "Inglês",
-        "id": "3e6b35b6c97519e2c07367178aecb2e849d9800dbb7442e9ad13fd89ac21404e"
+        "id": "3e6b35b6c97519e2c07367178aecb2e849d9800dbb7442e9ad13fd89ac21404e",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Teaching Software Engineering through Robotics",
@@ -571,7 +590,8 @@
         "data_publicacao": "2014-06-17T01:00:00",
         "categoria": "Tecnologia",
         "idioma": "Inglês",
-        "id": "c16294e43de293007c16a093f15e15a64026ce5e2a0ce05f367739eb1f566824"
+        "id": "c16294e43de293007c16a093f15e15a64026ce5e2a0ce05f367739eb1f566824",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Globally Distributed Software Process Engineering",
@@ -581,7 +601,8 @@
         "data_publicacao": "2011-01-01T00:00:00",
         "categoria": "Tecnologia",
         "idioma": "Inglês",
-        "id": "7a6423621c02bfde0ae3093f840674ebcaaf4121d4905759287a88ce1377e3f2"
+        "id": "7a6423621c02bfde0ae3093f840674ebcaaf4121d4905759287a88ce1377e3f2",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Towards Knowledge-Intensive Software Engineering",
@@ -591,7 +612,8 @@
         "data_publicacao": "2015-01-01T00:00:00",
         "categoria": "Tecnologia",
         "idioma": "Inglês",
-        "id": "64c90cf9b74b8a47dfd3b68794084a7ed36e609b737ff59b4b1aa505fcf9384b"
+        "id": "64c90cf9b74b8a47dfd3b68794084a7ed36e609b737ff59b4b1aa505fcf9384b",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "On Agent-Based Software Engineering",
@@ -601,7 +623,8 @@
         "data_publicacao": "2000-03-01T00:00:00",
         "categoria": "Tecnologia",
         "idioma": "Inglês",
-        "id": "d1cc601abf50003a46162a53dc7eec9dc47b4a6d59fa419ab7292146ae297b86"
+        "id": "d1cc601abf50003a46162a53dc7eec9dc47b4a6d59fa419ab7292146ae297b86",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Standards of Validity and the Validity of Standards in Behavioral\n  Software Engineering Research: The Perspective of Psychological Test Theory",
@@ -611,7 +634,8 @@
         "data_publicacao": "2018-01-01T00:00:00",
         "categoria": "Tecnologia",
         "idioma": "Inglês",
-        "id": "160fa5900171b48333a106b51ddcbb92eb487def75ebbf8fcf1a3fdc6da51b82"
+        "id": "160fa5900171b48333a106b51ddcbb92eb487def75ebbf8fcf1a3fdc6da51b82",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Teaching Data Science",
@@ -621,7 +645,8 @@
         "data_publicacao": "2016-01-01T00:00:00",
         "categoria": "Tecnologia",
         "idioma": "Inglês",
-        "id": "e2990aa4291083626dfbb175b580b7a7d19ebff9a03a878aa58075ed48f12dc6"
+        "id": "e2990aa4291083626dfbb175b580b7a7d19ebff9a03a878aa58075ed48f12dc6",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Informaticology: combining Computer Science, Data Science, and Fiction\n  Science",
@@ -631,7 +656,8 @@
         "data_publicacao": "2012-01-01T00:00:00",
         "categoria": "Tecnologia",
         "idioma": "Inglês",
-        "id": "8a3065b575005441f8ab5195c11395ebf6ab8b21d5729942a99a2ad9aa458bb6"
+        "id": "8a3065b575005441f8ab5195c11395ebf6ab8b21d5729942a99a2ad9aa458bb6",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Data Science and Ebola",
@@ -641,7 +667,8 @@
         "data_publicacao": "2015-04-11T01:00:00",
         "categoria": "Tecnologia",
         "idioma": "Inglês",
-        "id": "f7748f400be26a60a8f1637352eb289fff997106828498a2b9221d970a357cfa"
+        "id": "f7748f400be26a60a8f1637352eb289fff997106828498a2b9221d970a357cfa",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Teaching Stats for Data Science",
@@ -651,7 +678,8 @@
         "data_publicacao": "2017-08-29T01:00:00",
         "categoria": "Tecnologia",
         "idioma": "Inglês",
-        "id": "4492592f35e3c0e643e271bc07ae1f977153f00d7cdd8f7e4dfba0dc88e7a425"
+        "id": "4492592f35e3c0e643e271bc07ae1f977153f00d7cdd8f7e4dfba0dc88e7a425",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Indonesia embraces the Data Science",
@@ -661,7 +689,8 @@
         "data_publicacao": "2015-01-01T00:00:00",
         "categoria": "Tecnologia",
         "idioma": "Inglês",
-        "id": "239e23fe3bc2f583d31dcd0c3837dd0a35596c8a803e6f0132e33c18bf867a0b"
+        "id": "239e23fe3bc2f583d31dcd0c3837dd0a35596c8a803e6f0132e33c18bf867a0b",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Newsletter / House of Finance, Goethe-Universität Frankfurt 4/09",
@@ -671,7 +700,8 @@
         "data_publicacao": "2010-12-03T00:00:00",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "2d2efb312fd17899b280ebaf20b11a6f7fbec5eb35e5503d02b72753ebee51b3"
+        "id": "2d2efb312fd17899b280ebaf20b11a6f7fbec5eb35e5503d02b72753ebee51b3",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "House of Finance",
@@ -681,7 +711,8 @@
         "data_publicacao": "2010-01-01T00:00:00",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "da894c76950fd92825d1405ff430a2ec393962b17c471545b687dbfeb8556a68"
+        "id": "da894c76950fd92825d1405ff430a2ec393962b17c471545b687dbfeb8556a68",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "EFL quarterly : an E-Finance Lab publication ; 3/2006",
@@ -691,7 +722,8 @@
         "data_publicacao": "2011-04-07T00:00:00",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "70a44490eb16133826d4511de1ff7889630a188a8ef15b8b13ea420a29de4a0a"
+        "id": "70a44490eb16133826d4511de1ff7889630a188a8ef15b8b13ea420a29de4a0a",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "EFL quarterly : an E-Finance Lab publication ; 4/2010",
@@ -701,7 +733,8 @@
         "data_publicacao": "2011-04-07T00:00:00",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "89dfa4f6591dcdcf412f5ae30aef9ce3aa3ea61007f951b2121fda50690e321f"
+        "id": "89dfa4f6591dcdcf412f5ae30aef9ce3aa3ea61007f951b2121fda50690e321f",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "EFL quarterly : an E-Finance Lab publication ; 2/2007",
@@ -711,7 +744,8 @@
         "data_publicacao": "2011-04-07T01:00:00",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "3d767ac1773e75b8fb991f5587727b66b400480b02f72075669b83cd5226c041"
+        "id": "3d767ac1773e75b8fb991f5587727b66b400480b02f72075669b83cd5226c041",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "EFL quarterly : an E-Finance Lab publication ; 2/2008",
@@ -721,7 +755,8 @@
         "data_publicacao": "2011-04-07T00:00:00",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "539022bc9b3309921384de8e8165aaf79d96e0d8f4dc4eed44f99201d523c0ae"
+        "id": "539022bc9b3309921384de8e8165aaf79d96e0d8f4dc4eed44f99201d523c0ae",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Newsletter / House of Finance, Goethe-Universität Frankfurt 2/09",
@@ -731,7 +766,8 @@
         "data_publicacao": "2009-07-07T00:00:00",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "fec8272579ad9d45a22f1cad6ac5648caacf31a975ab26cf6d6d49c77d735655"
+        "id": "fec8272579ad9d45a22f1cad6ac5648caacf31a975ab26cf6d6d49c77d735655",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Joint External Evaluation of the Health Sector in Tanzania:1999-2006",
@@ -741,7 +777,8 @@
         "data_publicacao": "2007-11-01T00:00:00",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "62fce8bd0f525252cb61055e1c617688085a2ae3050d1aa88db5047c85ec6c62"
+        "id": "62fce8bd0f525252cb61055e1c617688085a2ae3050d1aa88db5047c85ec6c62",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "EFL quarterly : an E-Finance Lab publication ; 4/2008",
@@ -751,7 +788,8 @@
         "data_publicacao": "2011-01-01T00:00:00",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "bc8537932b9831e1ba4ef1950b9a46e8175819b1348c977e86f5641377c6f0be"
+        "id": "bc8537932b9831e1ba4ef1950b9a46e8175819b1348c977e86f5641377c6f0be",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "EFL quarterly : an E-Finance Lab publication ; 3/2010",
@@ -761,7 +799,8 @@
         "data_publicacao": "2011-01-01T00:00:00",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "a44391dc94a772bf071cf2b224946a254bdf3f55ff9cb09d7bfa8301bbc85262"
+        "id": "a44391dc94a772bf071cf2b224946a254bdf3f55ff9cb09d7bfa8301bbc85262",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Entrepreneurial strategies for sustainable development",
@@ -771,7 +810,8 @@
         "data_publicacao": "2003-01-01T00:00:00",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "47ae5ce159b3f44eee60ba39505cbd5b5ada516050a721ac31b287b89979e633"
+        "id": "47ae5ce159b3f44eee60ba39505cbd5b5ada516050a721ac31b287b89979e633",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Entrepreneurship and Economic Liberalization in the OECD Countries",
@@ -781,7 +821,8 @@
         "data_publicacao": "2016-06-30T00:00:00",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "374db7073cc44de9f33c23c9611f750d1f5d02f1aab331a08ed3432611bc384a"
+        "id": "374db7073cc44de9f33c23c9611f750d1f5d02f1aab331a08ed3432611bc384a",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Social Entrepreneurs and Innovation for the Unemployment",
@@ -791,7 +832,8 @@
         "data_publicacao": "2019-01-01T00:00:00",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "7dcfe8fa3a89909394ed4961ec16505e98fd48e2b29bca0b82e37a836b56ea42"
+        "id": "7dcfe8fa3a89909394ed4961ec16505e98fd48e2b29bca0b82e37a836b56ea42",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Effectual Entrepreneurship: Book Review",
@@ -801,7 +843,8 @@
         "data_publicacao": "2011-01-01T00:00:00",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "2b04972b4cdec02c4db51b9388a59ccc72efc87e607e0cc70ec9f33d7da4d853"
+        "id": "2b04972b4cdec02c4db51b9388a59ccc72efc87e607e0cc70ec9f33d7da4d853",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "A Tale of Two Entrepreneurs: Understanding Differences in the Types of Entrepreneurship in the Economy",
@@ -811,7 +854,8 @@
         "data_publicacao": "2013-05-05T00:00:00",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "67e5143f76247d704b1f682e7deffc84783394d5814aa8040a26e3fde130e427"
+        "id": "67e5143f76247d704b1f682e7deffc84783394d5814aa8040a26e3fde130e427",
+        "tipo_documento": "Artigo"
     },
     {
         "titulo": "Kinematics of Clustering",
@@ -821,6 +865,7 @@
         "data_publicacao": "2014-07-08T01:00:00",
         "categoria": "Negócios",
         "idioma": "Inglês",
-        "id": "41d2aff15c1c008f5e4017f8f2ebb0c426946ba352a4e027b51267e2d16f730e"
+        "id": "41d2aff15c1c008f5e4017f8f2ebb0c426946ba352a4e027b51267e2d16f730e",
+        "tipo_documento": "Artigo"
     }
 ]
