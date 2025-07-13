@@ -374,14 +374,453 @@
         "tipo_documento": "Artigo"
     },
     {
-        "id": "3d4a21bee2ba9450c2a6750abdec65f4a35a2a7b4608bb99bcf43edd34ffee55",
         "titulo": "Optimal Demand for Contingent Claims when Agents have law Invariant Utilities.",
         "descricao": "We consider a class of law invariant utilities which contains the Rank Dependent Expected Utility (RDU) and the cumulative prospect theory (CPT). We show that the computation of demand for a contingent claim when utilities are within that class, although not as simple as in the Expected Utility (EU) case, is still tractable. Speciﬁc attention is given to the RDU and to the CPT cases. Numerous examples are fully solved.Constrained Optimization; Quantiles; Demand; Law Invariant Utilities;",
         "autor": "Carlier, Guillaume, Dana, Rose-Anne",
         "url": "https://core.ac.uk/download/pdf/6275301.pdf",
         "data_publicacao": "desconhecida",
-        "categoria": "não especificada",
-        "idioma": "desconhecido",
-        "tipo_documento": "Artigo"
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "6577440ed08ce63288b6a0adf6df3b61e8d01cb498449da535ad9447e3a2761c"
+    },
+    {
+        "titulo": "CORPORATE SOCIAL RESPONSIBILITY IN ROMANIA",
+        "descricao": "The purpose of this paper is to identify the main opportunities and limitations of corporate social responsibility (CSR). The survey was defined with the aim to involve the highest possible number of relevant CSR topics and give the issue a more wholesome perspective. It provides a basis for further comprehension and deeper analyses of specific CSR areas. The conditions determining the success of CSR in Romania have been defined in the paper on the basis of the previously cumulative knowledge as well as the results of various researches. This paper provides knowledge which may be useful in the programs promoting CSR.Corporate social responsibility, Supportive policies, Romania",
+        "autor": "Georgescu Bogdan, Militaru Gheorghe, Serbanica Daniel",
+        "url": "https://core.ac.uk/download/pdf/6257622.pdf",
+        "data_publicacao": "desconhecida",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "9e36cf632c868552a242ce81186f1e72a7dd5e584940f88d75874f2d27e20275"
+    },
+    {
+        "titulo": "Improving water productivity: how do we get more crop from every drop",
+        "descricao": "Water management / Productivity / Irrigation management / Supplemental irrigation / Crop production",
+        "autor": "International Water Management Institute (IWMI) / Comprehensive Assessment of Water Management in Agriculture",
+        "url": "https://core.ac.uk/download/pdf/6233334.pdf",
+        "data_publicacao": "desconhecida",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "4875c939b97893b6b213dc6ef1b3bc80e6c669208acaf2659106553f81d2480b"
+    },
+    {
+        "titulo": "Management as a system: creating value",
+        "descricao": "Boston University School of Management publication from the 1990s about the MBA programs at BU, aimed at prospective MBA students",
+        "autor": "Boston University School of Management",
+        "url": "https://open.bu.edu/bitstream/2144/32993/1/CreatingValue_MBA_web.pdf",
+        "data_publicacao": "2019-01-04T15:30:54",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "c20754721677fbf34276ae06fd7707cf69bf4f4be531a177657c1b65b8ea7b5c"
+    },
+    {
+        "titulo": "Sixth quarterly activities report on the Cooperative Agreement No.391-0467-A-00-1818-00: Irrigation research (period from December 1992 to February 1993). Part 1: Irrigation Systems Management Research Project",
+        "descricao": "Irrigation management / Research policy / Irrigation programs / Pakistan",
+        "autor": "International Irrigation Management Institute (IIMI).",
+        "url": "https://core.ac.uk/download/pdf/6405127.pdf",
+        "data_publicacao": "desconhecida",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "0fde594ee2e033bc242394f0a119277d86e1c37bb0b6b93243d8d1d68ea11e96"
+    },
+    {
+        "titulo": "Improving soils and boosting yields in Thailand",
+        "descricao": "Soil improvement / Clay / Bentonite / Crop production / Vegetable growing / Yields / Thailand",
+        "autor": "International Water Management Institute (IWMI).",
+        "url": "https://core.ac.uk/download/pdf/6405333.pdf",
+        "data_publicacao": "desconhecida",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "82303f5ff72b70ee99b7dbfd2c1662f990e6b937ab6a3891e1c7c6ee951ef003"
+    },
+    {
+        "titulo": "Improving performance and financial viability of irrigation systems in India and China",
+        "descricao": "Irrigation systems / Groundwater irrigation / Energy / Cost recovery / India / China",
+        "autor": "International Water Management Institute (IWMI).",
+        "url": "https://core.ac.uk/download/pdf/6233342.pdf",
+        "data_publicacao": "desconhecida",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "af0fc0b6d8ce08ff64a0a52ef2bdbc7c386362735cb8a4581f0dfe49fce8b943"
+    },
+    {
+        "titulo": "IWRM challenges in developing countries: lessons from India and elsewhere",
+        "descricao": "Water resource management / Institutional development / Tube wells / Economic aspects / Policy / India",
+        "autor": "International Water Management Institute (IWMI).",
+        "url": "https://core.ac.uk/download/pdf/6233344.pdf",
+        "data_publicacao": "desconhecida",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "ebb1aa7327a79e6ef6cb4e1de4ae0752330b823f1a6091b28a6ade11c9a50fdf"
+    },
+    {
+        "titulo": "IWMI Research Update: news of the progress and impact of IWMI's research",
+        "descricao": "Drought, Groundwater, Erosion, Wetlands, Irrigation management, Rainfed farming, Turkey, South East Asia, Sri Lanka, Africa",
+        "autor": "International Water Management Institute (IWMI).",
+        "url": "https://core.ac.uk/download/pdf/6238749.pdf",
+        "data_publicacao": "desconhecida",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "a9d1fb8daaf774fddde61630c1ec7fe92f84c708e3538eecd8a72d563099ff2b"
+    },
+    {
+        "titulo": "Sharing water equitably in the Ferghana Valley, Central Asia",
+        "descricao": "Water supplyWater conservationWater users associationsFarmer-agency interactionsIrrigation management",
+        "autor": "International Water Management Institute (IWMI).",
+        "url": "https://core.ac.uk/download/pdf/6405210.pdf",
+        "data_publicacao": "desconhecida",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "1a6cae5a82af86fc14374514ca5ee134fe71b82811fa660f7263f2ac3a2e0bb8"
+    },
+    {
+        "titulo": "Software engineering",
+        "descricao": "Today's software systems generally use obsolete technology, are not integrated properly with other software systems, and are difficult and costly to maintain. The discipline of reverse engineering is becoming prominent as organizations try to move their systems up to more modern and maintainable technology in a cost effective manner. The Johnson Space Center (JSC) created a significant set of tools to develop and maintain FORTRAN and C code during development of the space shuttle. This tool set forms the basis for an integrated environment to reengineer existing code into modern software engineering structures which are then easier and less costly to maintain and which allow a fairly straightforward translation into other target languages. The environment will support these structures and practices even in areas where the language definition and compilers do not enforce good software engineering. The knowledge and data captured using the reverse engineering tools is passed to standard forward engineering tools to redesign or perform major upgrades to software systems in a much more cost effective manner than using older technologies. The latest release of the environment was in Feb. 1992",
+        "autor": "Fridge, Ernest M., III, Golej, Jim, Hiott, Jim, Plumb, Allan",
+        "url": "https://core.ac.uk/download/pdf/42805547.pdf",
+        "data_publicacao": "desconhecida",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "8a8216089f0659480c6a60793153379a33200140ba99825d746eb321098cecdb"
+    },
+    {
+        "titulo": "Software engineering activities at SEI (Software Engineering Institute)",
+        "descricao": "Prototyping was shown to ease system specification and implementation, especially in the area of user interfaces. Other prototyping approaches do not allow for the evolution of the prototype into a production system or support maintenance after the system is fielded. A set of goals is presented for a modern user interface environment and Serpent, a prototype implementation that achieves these goals, is described",
+        "autor": "Chittister, Clyde",
+        "url": "https://core.ac.uk/download/pdf/42818387.pdf",
+        "data_publicacao": "desconhecida",
+        "categoria": "Tecnologia",
+        "idioma": "Inglês",
+        "id": "4f1b1f9c738da18b7808386b1ab9b68a20cbd6d67c91d28bd7dcc5a427caa8ad"
+    },
+    {
+        "titulo": "Sustainability in Software Engineering",
+        "descricao": "The intersection between software engineering re- search and the problems related to sustainability and green IT has been the subject of increasing attention. In spite of that, we observe that sustainability is still not clearly defined, or understood, in the field of software engineering. This lack of clarity leads to confusion about e.g. what is relevant to measure or the research implications over time or space.\n\nThis paper provides an overview of how the research so far has defined sustainability, and how this definition has been used to guide which research areas. To this end, we carried out a systematic mapping study for selecting, classifying and analyzing relevant publications. In this study, we investigate which knowledge areas and which time scope of sustainability effects are mostly targeted in scientific research. Our analysis shows research trends and discusses gaps to be filled",
+        "autor": "berntsen, bourque, osborne, penzenstadler",
+        "url": "https://core.ac.uk/download/146487382.pdf",
+        "data_publicacao": "2018-06-14T00:00:00",
+        "categoria": "Tecnologia",
+        "idioma": "Inglês",
+        "id": "914830d0954b367a010d8a85094e3de26985a9e1161c2fe67d036f9ca6b749bf"
+    },
+    {
+        "titulo": "Software engineering (Encylopedia entry)",
+        "descricao": null,
+        "autor": "Finkelstein, A.",
+        "url": "https://core.ac.uk/download/1669781.pdf",
+        "data_publicacao": "2000-01-01T00:00:00",
+        "categoria": "Tecnologia",
+        "idioma": "Inglês",
+        "id": "b83caaf843611c658a7a501f552d62b068866f4d53d9c8717b23f4aa6d2f047e"
+    },
+    {
+        "titulo": "Software engineering ethics",
+        "descricao": "Software engineering ethics is reviewed. The following subject areas are covered: lack of a system viewpoint; arrogance of PC DOS software vendors; violation od upward compatibility; internet worm; internet worm revisited; student cheating and company hiring interviews; computing practitioners and the commodity market; new projects and old programming languages; schedule and budget; and recent public domain comments",
+        "autor": "Bown, Rodney L.",
+        "url": "https://core.ac.uk/download/pdf/42817571.pdf",
+        "data_publicacao": "desconhecida",
+        "categoria": "Tecnologia",
+        "idioma": "Inglês",
+        "id": "9cbb54a76ca78f90a2c995e0706bd3a8ae3abb78c358082198fe46469fc592e3"
+    },
+    {
+        "titulo": "Controversies in software engineering",
+        "descricao": "NUL",
+        "autor": "Kerr, James H.",
+        "url": "https://core.ac.uk/download/57220.pdf",
+        "data_publicacao": "2004-11-11T00:00:00",
+        "categoria": "Tecnologia",
+        "idioma": "Inglês",
+        "id": "1d329dcf76962c20632d3f2a4bcdd28dc2d8f00e9878b140f70f06c84a589ba2"
+    },
+    {
+        "titulo": "Ethical Issues in Empirical Studies of Software Engineering",
+        "descricao": "The popularity of empirical methods in software engineering research is on the rise. Surveys,\nexperiments, metrics, case studies, and field studies are examples of empirical methods used to\ninvestigate both software engineering processes and products. The increased application of\nempirical methods has also brought about an increase in discussions about adapting these\nmethods to the peculiarities of software engineering. In contrast, the ethical issues raised by\nempirical methods have received little, if any, attention in the software engineering literature. This\narticle is intended to introduce the ethical issues raised by empirical research to the software\nengineering research community, and to stimulate discussion of how best to deal with these ethical\nissues. Through a review of the ethical codes of several fields that commonly employ humans and\nartifacts as research subjects, we have identified major ethical issues relevant to empirical studies\nof software engineering. These issues are illustrated with real empirical studies of software\nengineering",
+        "autor": "Singer, Janice A., Vinson, Norman G.",
+        "url": "https://core.ac.uk/download/pdf/85633.pdf",
+        "data_publicacao": "2002-12-01T00:00:00",
+        "categoria": "Tecnologia",
+        "idioma": "Inglês",
+        "id": "c66f22c82ff5e83b852ca17b60b49e6b759aec41b14e48c5de29e96609e02ca0"
+    },
+    {
+        "titulo": "International conference on software engineering and knowledge engineering: Session chair",
+        "descricao": "The Thirtieth International Conference on Software Engineering and Knowledge Engineering (SEKE 2018) will be held at the Hotel Pullman, San Francisco Bay, USA, from July 1 to July 3, 2018. SEKE2018 will also be dedicated in memory of Professor Lofti Zadeh, a great scholar, pioneer and leader in fuzzy sets theory and soft computing. \n\nThe conference aims at bringing together experts in software engineering and knowledge engineering to discuss on relevant results in either software engineering or knowledge engineering or both. Special emphasis will be put on the transference of methods between both domains. The theme this year is soft computing in software engineering & knowledge engineering. Submission of papers and demos are both welcome",
+        "autor": "Bosu, Michael Franklin",
+        "url": "https://core.ac.uk/download/187724709.pdf",
+        "data_publicacao": "2018-07-01T01:00:00",
+        "categoria": "Tecnologia",
+        "idioma": "Inglês",
+        "id": "16d1e77d706e97eb902efb90b3614c1b3168e9827147bb29900fcd0b79716d67"
+    },
+    {
+        "titulo": "Cloud engineering is search based software engineering too",
+        "descricao": "Many of the problems posed by the migration of computation to cloud platforms can be formulated and solved using techniques associated with Search Based Software Engineering (SBSE). Much of cloud software engineering involves problems of optimisation: performance, allocation, assignment and the dynamic balancing of resources to achieve pragmatic trade-offs between many competing technical and business objectives. SBSE is concerned with the application of computational search and optimisation to solve precisely these kinds of software engineering challenges. Interest in both cloud computing and SBSE has grown rapidly in the past five years, yet there has been little work on SBSE as a means of addressing cloud computing challenges. Like many computationally demanding activities, SBSE has the potential to benefit from the cloud; ‘SBSE in the cloud’. However, this paper focuses, instead, of the ways in which SBSE can benefit cloud computing. It thus develops the theme of ‘SBSE for the cloud’, formulating cloud computing challenges in ways that can be addressed using SBSE",
+        "autor": "Abadi, Afzal, Afzal, Afzal, Ali, Alshahwan, Arcuri, Armbrust, Barham, Barroso, Beckman, Beloglazov, Ben-Yehuda, Cadar, Calheiros, Carzaniga, Chang, Cheng, Cliff, Cohen, Cooper, Cornford, Darley, De Millo, DeCandia, Dijkstra, Durillo, Emberson, Fan, Fatiregun, Forrest, Fraser, Freitas, Guo, Harman, Harman, Harman, Harman, Harman, Harman, Harman, Harman, Harman, Harman, Harman, Hoare, Hoare, Hoare, Hoste, Jacobs, Jakobovic, Jakobović, Jia, Jones, Justafort, Kirkpatrick, Kliazovich, Koza, Lagar-cavilla, Lakhotia, Lakhotia, Langdon, Le Goues, Le Goues, Lee, Lutz, Madhavapeddy, McMinn, Mell, Mishra, Mitchell, Narzisi, Nurmi, Papazoglou, Rappa, Reese, Rogers, Ryan, Räihä, Silva, Sitthi-Amorn, Sotomayor, Srikantaiah, Stillwell, Viegas, Vishwanath, Voorsluys, Wegener, Weimer, White, White, Whitley, Williams, Yoo, Zhang, Zhang",
+        "url": "https://core.ac.uk/download/9649014.pdf",
+        "data_publicacao": "2013-09-01T00:00:00",
+        "categoria": "Tecnologia",
+        "idioma": "Inglês",
+        "id": "3e6b35b6c97519e2c07367178aecb2e849d9800dbb7442e9ad13fd89ac21404e"
+    },
+    {
+        "titulo": "Teaching Software Engineering through Robotics",
+        "descricao": "This paper presents a newly-developed robotics programming course and reports\nthe initial results of software engineering education in robotics context.\nRobotics programming, as a multidisciplinary course, puts equal emphasis on\nsoftware engineering and robotics. It teaches students proper software\nengineering -- in particular, modularity and documentation -- by having them\nimplement four core robotics algorithms for an educational robot. To evaluate\nthe effect of software engineering education in robotics context, we analyze\npre- and post-class survey data and the four assignments our students completed\nfor the course. The analysis suggests that the students acquired an\nunderstanding of software engineering techniques and principles",
+        "autor": "Meyer, Bertrand, Rusakov, Andrey, Shin, Jiwon",
+        "url": "http://arxiv.org/abs/1406.4458",
+        "data_publicacao": "2014-06-17T01:00:00",
+        "categoria": "Tecnologia",
+        "idioma": "Inglês",
+        "id": "c16294e43de293007c16a093f15e15a64026ce5e2a0ce05f367739eb1f566824"
+    },
+    {
+        "titulo": "Globally Distributed Software Process Engineering",
+        "descricao": "Software processes is becoming a more addressed\r\nissue in software development companies every day. These\r\nprocesses are defined regardless of the environment in which\r\nthey run. To incorporate aspects of that environment is essential,\r\nespecially if referring to GSE. Despite this fact, the process itself\r\nshould not be necessary modified. This paper provides a first\r\ndraft of a research focused on software process definition,\r\nmodeling, implementation and evaluation in a GSE environment,\r\nso as to facilitate the information exchange through a\r\nhierarchical process that does not involve modification of specific\r\nprocesses.Ministerio de Educación y Ciencia TIN2007-67843-C06-03Ministerio de Educación y Ciencia TIN2010-20057-C03-0",
+        "autor": "Escalona Cuaresma, María José, García Borgoñón, Laura",
+        "url": "https://core.ac.uk/download/227043617.pdf",
+        "data_publicacao": "2011-01-01T00:00:00",
+        "categoria": "Tecnologia",
+        "idioma": "Inglês",
+        "id": "7a6423621c02bfde0ae3093f840674ebcaaf4121d4905759287a88ce1377e3f2"
+    },
+    {
+        "titulo": "Towards Knowledge-Intensive Software Engineering",
+        "descricao": "Postprin",
+        "autor": "Cauvin, Samuel R., Sleeman, Derek, Vasconcelos, Wamberto W.",
+        "url": "https://core.ac.uk/download/29465828.pdf",
+        "data_publicacao": "2015-01-01T00:00:00",
+        "categoria": "Tecnologia",
+        "idioma": "Inglês",
+        "id": "64c90cf9b74b8a47dfd3b68794084a7ed36e609b737ff59b4b1aa505fcf9384b"
+    },
+    {
+        "titulo": "On Agent-Based Software Engineering",
+        "descricao": "Agent-based computing represents an exciting new synthesis both for Artificial Intelligence (AI) and, more generally, Computer Science. It has the potential to significantly improve the theory and the practice of modeling, designing, and implementing computer systems. Yet, to date, there has been little systematic analysis of what makes the agent-based approach such an appealing and powerful computational model. Moreover, even less effort has been devoted to discussing the inherent disadvantages that stem from adopting an agent-oriented view. Here both sets of issues are explored. The standpoint of this analysis is the role of agent-based software in solving complex, real-world problems. In particular, it will be argued that the development of robust and scalable software systems requires autonomous agents that can complete their objectives while situated in a dynamic and uncertain environment, that can engage in rich, high-level social interactions, and that can operate within flexible organisational structures",
+        "autor": "Jennings, N. R.",
+        "url": "https://core.ac.uk/download/pdf/82683097.pdf",
+        "data_publicacao": "2000-03-01T00:00:00",
+        "categoria": "Tecnologia",
+        "idioma": "Inglês",
+        "id": "d1cc601abf50003a46162a53dc7eec9dc47b4a6d59fa419ab7292146ae297b86"
+    },
+    {
+        "titulo": "Standards of Validity and the Validity of Standards in Behavioral\n  Software Engineering Research: The Perspective of Psychological Test Theory",
+        "descricao": "Background. There are some publications in software engineering research that\naim at guiding researchers in assessing validity threats to their studies.\nStill, many researchers fail to address many aspects of validity that are\nessential to quantitative research on human factors. Goal. This paper has the\ngoal of triggering a change of mindset in what types of studies are the most\nvaluable to the behavioral software engineering field, and also provide more\ndetails of what construct validity is. Method. The approach is based on\npsychological test theory and draws upon methods used in psychology in relation\nto construct validity. Results. In this paper, I suggest a different approach\nto validity threats than what is commonplace in behavioral software engineering\nresearch. Conclusions. While this paper focuses on behavioral software\nengineering, I believe other types of software engineering research might also\nbenefit from an increased focus on construct validity.Comment: ACM/IEEE International Symposium on Empirical Software Engineering\n  and Measurement (ESEM), Oulu, Finland, October 11-12, 2018. 4 page",
+        "autor": "Gren, Lucas",
+        "url": "http://arxiv.org/abs/1809.01940",
+        "data_publicacao": "2018-01-01T00:00:00",
+        "categoria": "Tecnologia",
+        "idioma": "Inglês",
+        "id": "160fa5900171b48333a106b51ddcbb92eb487def75ebbf8fcf1a3fdc6da51b82"
+    },
+    {
+        "titulo": "Teaching Data Science",
+        "descricao": "We describe an introductory data science course, entitled Introduction to\nData Science, offered at the University of Illinois at Urbana-Champaign. The\ncourse introduced general programming concepts by using the Python programming\nlanguage with an emphasis on data preparation, processing, and presentation.\nThe course had no prerequisites, and students were not expected to have any\nprogramming experience. This introductory course was designed to cover a wide\nrange of topics, from the nature of data, to storage, to visualization, to\nprobability and statistical analysis, to cloud and high performance computing,\nwithout becoming overly focused on any one subject. We conclude this article\nwith a discussion of lessons learned and our plans to develop new data science\ncourses.Comment: 10 pages, 4 figures, International Conference on Computational\n  Science (ICCS 2016",
+        "autor": "Brunner, Robert J., Kim, Edward J.",
+        "url": "https://core.ac.uk/download/pdf/82479663.pdf",
+        "data_publicacao": "2016-01-01T00:00:00",
+        "categoria": "Tecnologia",
+        "idioma": "Inglês",
+        "id": "e2990aa4291083626dfbb175b580b7a7d19ebff9a03a878aa58075ed48f12dc6"
+    },
+    {
+        "titulo": "Informaticology: combining Computer Science, Data Science, and Fiction\n  Science",
+        "descricao": "Motivated by an intention to remedy current complications with Dutch\nterminology concerning informatics, the term informaticology is positioned to\ndenote an academic counterpart of informatics where informatics is conceived of\nas a container for a coherent family of practical disciplines ranging from\ncomputer engineering and software engineering to network technology, data\ncenter management, information technology, and information management in a\nbroad sense.\n  Informaticology escapes from the limitations of instrumental objectives and\nthe perspective of usage that both restrict the scope of informatics. That is\nachieved by including fiction science in informaticology and by ranking fiction\nscience on equal terms with computer science and data science, and framing (the\nstudy of) game design, evelopment, assessment and distribution, ranging from\nserious gaming to entertainment gaming, as a chapter of fiction science. A\nsuggestion for the scope of fiction science is specified in some detail.\n  In order to illustrate the coherence of informaticology thus conceived, a\npotential application of fiction to the ontology of instruction sequences and\nto software quality assessment is sketched, thereby highlighting a possible\nrole of fiction (science) within informaticology but outside gaming",
+        "autor": "Bergstra, Jan A.",
+        "url": "http://arxiv.org/abs/1210.6636",
+        "data_publicacao": "2012-01-01T00:00:00",
+        "categoria": "Tecnologia",
+        "idioma": "Inglês",
+        "id": "8a3065b575005441f8ab5195c11395ebf6ab8b21d5729942a99a2ad9aa458bb6"
+    },
+    {
+        "titulo": "Data Science and Ebola",
+        "descricao": "Data Science---Today, everybody and everything produces data. People produce\nlarge amounts of data in social networks and in commercial transactions.\nMedical, corporate, and government databases continue to grow. Sensors continue\nto get cheaper and are increasingly connected, creating an Internet of Things,\nand generating even more data. In every discipline, large, diverse, and rich\ndata sets are emerging, from astrophysics, to the life sciences, to the\nbehavioral sciences, to finance and commerce, to the humanities and to the\narts. In every discipline people want to organize, analyze, optimize and\nunderstand their data to answer questions and to deepen insights. The science\nthat is transforming this ocean of data into a sea of knowledge is called data\nscience. This lecture will discuss how data science has changed the way in\nwhich one of the most visible challenges to public health is handled, the 2014\nEbola outbreak in West Africa.Comment: Inaugural lecture Leiden Universit",
+        "autor": "Plaat, Aske",
+        "url": "https://core.ac.uk/download/388665934.pdf",
+        "data_publicacao": "2015-04-11T01:00:00",
+        "categoria": "Tecnologia",
+        "idioma": "Inglês",
+        "id": "f7748f400be26a60a8f1637352eb289fff997106828498a2b9221d970a357cfa"
+    },
+    {
+        "titulo": "Teaching Stats for Data Science",
+        "descricao": "“Data science” is a useful catchword for methods and concepts original to the field of statistics, but typically being applied to large, multivariate, observational records. Such datasets call for techniques not often part of an introduction to statistics: modeling, consideration of covariates, sophisticated visualization, and causal reasoning. This article re-imagines introductory statistics as an introduction to data science and proposes a sequence of 10 blocks that together compose a suitable course for extracting information from contemporary data. Recent extensions to the mosaic packages for R together with tools from the “tidyverse” provide a concise and readable notation for wrangling, visualization, model-building, and model interpretation: the fundamental computational tasks of data science",
+        "autor": "Kaplan, Daniel",
+        "url": "https://core.ac.uk/download/212890622.pdf",
+        "data_publicacao": "2017-08-29T01:00:00",
+        "categoria": "Tecnologia",
+        "idioma": "Inglês",
+        "id": "4492592f35e3c0e643e271bc07ae1f977153f00d7cdd8f7e4dfba0dc88e7a425"
+    },
+    {
+        "titulo": "Indonesia embraces the Data Science",
+        "descricao": "The information era is the time when information is not only largely\ngenerated, but also vastly processed in order to extract and generated more\ninformation. The complex nature of modern living is represented by the various\nkind of data. Data can be in the forms of signals, images, texts, or manifolds\nresembling the horizon of observation. The task of the emerging data sciences\nare to extract information from the data, for people gain new insights of the\ncomplex world. The insights may came from the new way of the data\nrepresentation, be it a visualizations, mapping, or other. The insights may\nalso come from the implementation of mathematical analysis and or computational\nprocessing giving new insights of what the states of the nature represented by\nthe data. Both ways implement the methodologies reducing the dimensionality of\nthe data. The relations between the two functions, representation and analysis\nare the heart of how information in data is transformed mathematically and\ncomputationally into new information. The paper discusses some practices, along\nwith various data coming from the social life in Indonesia to gain new insights\nabout Indonesia in the emerging data sciences. The data sciences in Indonesia\nhas made Indonesian Data Cartograms, Indonesian Celebrity Sentiment Mapping,\nEthno-Clustering Maps, social media community detection, and a lot more to\ncome, become possible. All of these are depicted as the exemplifications on how\nData Science has become integral part of the technology bringing data closer to\npeople.Comment: Paper presented in South East Asian Mathematical Society (SEAMS) 7th\n  Conference, 10 pages, 7 figure",
+        "autor": "Situngkir, Hokky",
+        "url": "https://core.ac.uk/download/211617669.pdf",
+        "data_publicacao": "2015-01-01T00:00:00",
+        "categoria": "Tecnologia",
+        "idioma": "Inglês",
+        "id": "239e23fe3bc2f583d31dcd0c3837dd0a35596c8a803e6f0132e33c18bf867a0b"
+    },
+    {
+        "titulo": "Newsletter / House of Finance, Goethe-Universität Frankfurt 4/09",
+        "descricao": "Editorial: Jens Weidmann : \"Central Banks and Monetary Policy after the Crisis\" Research Finance: Holger Kraft,Claus Munk : \"Optimal Housing, Consumption, and Investment Decisions over the Life Cycle\" Research Money/Macro: Ester Faia, Eleni Iliopulos : \"Financial Globalization and Monetary Policy\" Research Law: Andreas Cahn, D. Schöneberger : \"Shareholder Governance in Europe\" Policy Platform: Michael Haliassos, Dimitri Vayanos : \"Getting Greece Back on Track: How?\" Interview: Raimond Maurer, Ralph Rogalla : \"Longevity Risk and Capital Markets Solutions",
+        "autor": "House of Finance <Frankfurt, Main>",
+        "url": "https://core.ac.uk/download/14516341.pdf",
+        "data_publicacao": "2010-12-03T00:00:00",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "2d2efb312fd17899b280ebaf20b11a6f7fbec5eb35e5503d02b72753ebee51b3"
+    },
+    {
+        "titulo": "House of Finance",
+        "descricao": null,
+        "autor": "House of Finance <Frankfurt, Main>",
+        "url": "https://core.ac.uk/download/14520608.pdf",
+        "data_publicacao": "2010-01-01T00:00:00",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "da894c76950fd92825d1405ff430a2ec393962b17c471545b687dbfeb8556a68"
+    },
+    {
+        "titulo": "EFL quarterly : an E-Finance Lab publication ; 3/2006",
+        "descricao": null,
+        "autor": "E-Finance Lab <Frankfurt, Main>",
+        "url": "https://core.ac.uk/download/14516444.pdf",
+        "data_publicacao": "2011-04-07T00:00:00",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "70a44490eb16133826d4511de1ff7889630a188a8ef15b8b13ea420a29de4a0a"
+    },
+    {
+        "titulo": "EFL quarterly : an E-Finance Lab publication ; 4/2010",
+        "descricao": null,
+        "autor": "E-Finance Lab <Frankfurt, Main>",
+        "url": "https://core.ac.uk/download/14516461.pdf",
+        "data_publicacao": "2011-04-07T00:00:00",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "89dfa4f6591dcdcf412f5ae30aef9ce3aa3ea61007f951b2121fda50690e321f"
+    },
+    {
+        "titulo": "EFL quarterly : an E-Finance Lab publication ; 2/2007",
+        "descricao": null,
+        "autor": "E-Finance Lab <Frankfurt, Main>",
+        "url": "https://core.ac.uk/download/14516447.pdf",
+        "data_publicacao": "2011-04-07T01:00:00",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "3d767ac1773e75b8fb991f5587727b66b400480b02f72075669b83cd5226c041"
+    },
+    {
+        "titulo": "EFL quarterly : an E-Finance Lab publication ; 2/2008",
+        "descricao": null,
+        "autor": "E-Finance Lab <Frankfurt, Main>",
+        "url": "https://core.ac.uk/download/14516451.pdf",
+        "data_publicacao": "2011-04-07T00:00:00",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "539022bc9b3309921384de8e8165aaf79d96e0d8f4dc4eed44f99201d523c0ae"
+    },
+    {
+        "titulo": "Newsletter / House of Finance, Goethe-Universität Frankfurt 2/09",
+        "descricao": null,
+        "autor": "House of Finance <Frankfurt, Main>",
+        "url": "https://core.ac.uk/download/14516339.pdf",
+        "data_publicacao": "2009-07-07T00:00:00",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "fec8272579ad9d45a22f1cad6ac5648caacf31a975ab26cf6d6d49c77d735655"
+    },
+    {
+        "titulo": "Joint External Evaluation of the Health Sector in Tanzania:1999-2006",
+        "descricao": "This is a historic evaluation. It is (probably) the first ever sector evaluation which is fully in line with the 2005 Paris Declaration on Aid Effectiveness: The evaluation was led by Tanzania’s Ministry of Finance and looks into an entire sector and the role and contributions of all domestic and external stakeholders including government authorities at all levels, civil society organisations, and the private sector in Tanzania; and all development partners, bilateral and multilateral. The aim is not limited to improving the performance of individual donors, but to feed into Tanzania’s Third Health Sector Strategic Plan covering 2008-15 and to give recommendations on how all stakeholders can best contribute towards \\ud\nthe plan. The Evaluation was carried out from December 2006 to September 2007 by a consortium of COWI, Denmark; Goss Gilroy, Canada; and EPOS, Germany. Team Leader was Ted Freeman of GGI, Canada. Six development partners: Belgium, Canada, Denmark, Germany, the Netherlands and Switzerland were the major funders of  the direct cost of the evaluation. The management of the evaluation was conducted by a management group comprising of Denmark, Germany and Tanzania.\\u",
+        "autor": "Ministry of Finance,Tanzania, MFT",
+        "url": "https://core.ac.uk/download/pdf/11307087.pdf",
+        "data_publicacao": "2007-11-01T00:00:00",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "62fce8bd0f525252cb61055e1c617688085a2ae3050d1aa88db5047c85ec6c62"
+    },
+    {
+        "titulo": "EFL quarterly : an E-Finance Lab publication ; 4/2008",
+        "descricao": null,
+        "autor": "E-Finance Lab <Frankfurt, Main>",
+        "url": "https://core.ac.uk/download/14516453.pdf",
+        "data_publicacao": "2011-01-01T00:00:00",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "bc8537932b9831e1ba4ef1950b9a46e8175819b1348c977e86f5641377c6f0be"
+    },
+    {
+        "titulo": "EFL quarterly : an E-Finance Lab publication ; 3/2010",
+        "descricao": null,
+        "autor": "E-Finance Lab <Frankfurt, Main>",
+        "url": "https://core.ac.uk/download/14516460.pdf",
+        "data_publicacao": "2011-01-01T00:00:00",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "a44391dc94a772bf071cf2b224946a254bdf3f55ff9cb09d7bfa8301bbc85262"
+    },
+    {
+        "titulo": "Entrepreneurial strategies for sustainable development",
+        "descricao": "Indice: Entrepreneurship and economic growth. On the nature of entrepreneurship. Strategic entrepreneurship. Sustainable development and entrepreneurship",
+        "autor": "Parente, Roberto",
+        "url": "https://core.ac.uk/download/pdf/11725456.pdf",
+        "data_publicacao": "2003-01-01T00:00:00",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "47ae5ce159b3f44eee60ba39505cbd5b5ada516050a721ac31b287b89979e633"
+    },
+    {
+        "titulo": "Entrepreneurship and Economic Liberalization in the OECD Countries",
+        "descricao": "Entrepreneurship displays remarkable differences across countries because of diverse factors. In this sense, it is frequently argued that economic liberalization encourages entrepreneurship. In this paper we address the extent to which economic freedom, understood as market economy oriented institutions and policies, matters for entrepreneurial activity through a panel data analysis for 78 countries during the period 2001-2012. We examine the relationship between the Fraser Institute’s economic freedom index and its five areas, and three entrepreneurial activity indicators from the Global Entrepreneurship Monitor, namely total entrepreneurial activity, necessity entrepreneurship and opportunity entrepreneurship. Economic freedom seems to increase opportunity entrepreneurship and decrease necessity entrepreneurship. Focusing on the OECD countries, we highlight that economic freedom is positively associated with entrepreneurship. In terms of entrepreneurship motivation, we find that a more flexible regulation of credit, labor and business, as well as entrepreneurial attitudes, may contribute to enhance opportunity entrepreneurshipUniversidad de Málaga. Campus de Excelencia Internacional Andalucía Tec",
+        "autor": "Abad-Guerrero, Isabel Maria, Angulo-Guerrero, Maria Jose, Perez-Moreno, Salvador Jesus",
+        "url": "https://core.ac.uk/download/62908613.pdf",
+        "data_publicacao": "2016-06-30T00:00:00",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "374db7073cc44de9f33c23c9611f750d1f5d02f1aab331a08ed3432611bc384a"
+    },
+    {
+        "titulo": "Social Entrepreneurs and Innovation for the Unemployment",
+        "descricao": "This research explored the social entrepreneurship factors to reduce the rate of unemployment in North Sumatra Indonesia. Social entrepreneurship is built through four main elements, namely social value, civil society, innovation, and economic activity. Through the element of innovation, a new form of social entrepreneurship was discovered. Theoretical reviews of social entrepreneurship practices that have been applied in various elements of civil society show innovation elements. An effort to overcome unemployment in Medan Municipality many forms of Social Entrepreneurships were analyzed. Social entrepreneurship that is most appropriately adopted in the city of Medan to reduce unemployment is to empower young women. It concluded that the synergic forms of Social Entrepreneurship with universities, banking institutions and the government, elements of social entrepreneurship including social value, civil society, innovation and economic activity",
+        "autor": "Sari, A. I. (Ade)",
+        "url": "https://media.neliti.com/media/publications/297448-social-entrepreneurs-and-innovation-for-5daaa529.pdf",
+        "data_publicacao": "2019-01-01T00:00:00",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "7dcfe8fa3a89909394ed4961ec16505e98fd48e2b29bca0b82e37a836b56ea42"
+    },
+    {
+        "titulo": "Effectual Entrepreneurship: Book Review",
+        "descricao": "This review offers an overview of the new textbook, titled “Effectual Entrepreneurship”\n\n(2011, Routledge), by Read, Sarasvathy, Dew, Wiltbank, and Ohlsson (hereafter RSDWO).\n\nThe book addresses large audiences of students, scholars, latent and current entrepreneurs, offering a new insight on the study and practice of entrepreneurship. This is achieved via the overview and critical evaluation of the stylized facts of the entrepreneurship literature, and\n\nthe provision of the principles of effectual entrepreneurship for startups, growing ventures\n\nand social enterprises. This synthesis is presented in a unique non‐technical way that makes the book a valuable handbook for individuals from all backgrounds with an interest in entrepreneurship as a discipline or as practice. The authors envisage the role of\n\nentrepreneurial education based on the view that entrepreneurship is not necessarily innate, and this is exactly what they achieve: the production of a remarkable entrepreneurship education tool",
+        "autor": "Panos, Georgios A",
+        "url": "https://core.ac.uk/download/19477151.pdf",
+        "data_publicacao": "2011-01-01T00:00:00",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "2b04972b4cdec02c4db51b9388a59ccc72efc87e607e0cc70ec9f33d7da4d853"
+    },
+    {
+        "titulo": "A Tale of Two Entrepreneurs: Understanding Differences in the Types of Entrepreneurship in the Economy",
+        "descricao": "Policymakers and pundits who use entrepreneurship as a \"catch-all\" phase to capture a single economic activity make an important mistake. There are two distinct types of entrepreneurship with different economic roles, requiring individually tailored policies to support each. This report examines the difference between IDE Entrepreneurship (innovation-driven enterprises) and SME Entrepreneurship (small and medium enterprises) and the type of policies required to support each",
+        "autor": "Bill Aulet, Fiona Murray",
+        "url": "https://core.ac.uk/download/71361876.pdf",
+        "data_publicacao": "2013-05-05T00:00:00",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "67e5143f76247d704b1f682e7deffc84783394d5814aa8040a26e3fde130e427"
+    },
+    {
+        "titulo": "Kinematics of Clustering",
+        "descricao": "The dynamical system for inertial particles in fluid flow has both attracting\nand repelling regions, the interplay of which can localize particles. In\nlaminar flow experiments we find that particles, initially moving throughout\nthe fluid domain, can undergo an instability and cluster into subdomains of the\nfluid when the flow Reynolds number exceeds a critical value that depends on\nparticle and fluid inertia. We derive an expression for the instability\nboundary and for a universal curve that describes the clustering rate for all\nparticles.Comment: 13 pages, 6 figure",
+        "autor": "Guy Metcalfe, Jie Wu, Manufacturing Flagship, Robert L. Stewart, Steven Wang",
+        "url": "http://arxiv.org/abs/1407.2331",
+        "data_publicacao": "2014-07-08T01:00:00",
+        "categoria": "Negócios",
+        "idioma": "Inglês",
+        "id": "41d2aff15c1c008f5e4017f8f2ebb0c426946ba352a4e027b51267e2d16f730e"
     }
 ]
