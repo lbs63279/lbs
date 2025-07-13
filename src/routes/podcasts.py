@@ -290,7 +290,7 @@ def obter_aula_por_id(aula_id: str):
     return aula
 
 
-@router.get("/conteudo-lbs/artigo/{aula_id}")
+@router.get("/conteudo-lbs/artigos/{aula_id}")
 def obter_aula_por_id(aula_id: str):
     aulas = obter_artigos_pdf()
     aula = next((a for a in aulas if str(a.get("id")) == aula_id), None)
