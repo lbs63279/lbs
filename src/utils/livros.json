@@ -657,6 +657,21 @@
     "paginas": 257,
     "arquivo": "https://library.oapen.org/bitstream/20.500.12657/22847/1/1007314.pdf",
     "tipo_documento": "Livro"
+  },
+  {
+    "id": "8a9b5b4e0f6a47c6b8c2f4f6a3de7f1a",
+    "titulo": "2ª Conferência Nacional de Ciência, Tecnologia e Inovação. Anais.",
+    "autor": "Brasil. Ministério da Saúde. Secretaria de Ciência, Tecnologia e Insumos Estratégicos",
+    "language": "Português",
+    "ano": 2005,
+    "categorias": [
+      "Tecnologia"
+    ],
+    "descricao": "Os anais da 2ª Co Conferência Nacional de Ciência, Tecnologia e Inovação (2ª CNCTIS), realizada em Brasília, entre 25 e 28 de julho de 2004, apresentou os marcos políticos de um novo tempo na Ciência e Tecnologia em saúde no país.",
+    "paginas": 270,
+    "arquivo": "https://livroaberto.ibict.br/bitstream/123456789/674/1/2%c2%aa%20Confer%c3%aancia%20Nacional%20de%20Ci%c3%aancia%2c%20Tecnologia%20e%20Inova%c3%a7%c3%a3o%20em%20Sa%c3%bade%20Anais.%20pdf.pdf",
+    "tipo_documento": "Livro"
   }
+  
   
 ]
