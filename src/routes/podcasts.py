@@ -217,7 +217,7 @@ def flatten_podcasts(podcasts: list[dict]) -> list[dict]:
 @router.get("/conteudo-lbs")
 def obter_conteudo_lbs(
     db: Session = Depends(get_db),
-    tipo: Literal["podcast", "livro", "aula", "biblioteca", "artigos"] = Query("podcast"),
+    tipo: Literal["podcast", "livro", "aula", "biblioteca", "artigo"] = Query("podcast"),
     page: int = Query(1, gt=0),
     limit: int = Query(10, gt=0, le=100)
 ):
@@ -238,7 +238,7 @@ def obter_conteudo_lbs(
         "livro": livros,
         "aula": aulas,
         "biblioteca": bibliotecas,
-        "artigos": artigos,
+        "artigo": artigos,
     }
 
     todos_itens = conteudo_formatado[tipo]
@@ -290,7 +290,7 @@ def obter_aula_por_id(aula_id: str):
     return aula
 
 
-@router.get("/conteudo-lbs/artigos/{aula_id}")
+@router.get("/conteudo-lbs/artigo/{aula_id}")
 def obter_aula_por_id(aula_id: str):
     aulas = obter_artigos_pdf()
     aula = next((a for a in aulas if str(a.get("id")) == aula_id), None)
