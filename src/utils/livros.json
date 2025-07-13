@@ -784,7 +784,7 @@
     "descricao": "O livro fala sobre a história da tecnologia industrial básica e acompanha artigos técnicos sobre os desafios e tendências nas áreas correspondentes, para que os gestores de hoje e de amanhã tenham a exata medida do que deveremos ainda construir.",
     "paginas": 177,
     "arquivo": "https://livroaberto.ibict.br/bitstream/123456789/856/2/Tecnologia%20industrial%20basica.pdf",
-    "tipo_documento": "Livro técnico"
+    "tipo_documento": "Livro"
   },
   {
     "id": "8a9d6f80fa304fbfa2b4a84b3e523e5b",
@@ -950,7 +950,6 @@
     "autor": "Amaral, Roberto",
     "language": "Português",
     "ano": 2003,
-    "editor": "Ministério da Ciência e Tecnologia (MCT)",
     "categorias": [
       "Ciência e Tecnologia",
       "Tecnologia social"
@@ -959,6 +958,68 @@
     "paginas": 188,
     "arquivo": "https://livroaberto.ibict.br/bitstream/123456789/820/1/Ci%c3%aancia%20e%20Tecnologia%20a%20Servi%c3%a7o%20do%20Progresso%20e%20da%20Inclus%c3%a3o%20Social.pdf",
     "tipo_documento": "Livro"
-  }
-
+  },
+  {
+    "id": "cd3f5baf1a9e4c3a8e5a7f12b9d04277",
+    "titulo": "A Classificação Decimal Universal (CDU): descrição e comentários das regras em uso",
+    "autor": "Jacquemin, E.",
+    "ano": 1960,
+    "language": "Português",
+    "categorias": [
+      "Gestão da informação",
+      "Sistema de classificação",
+      "Classificação decimal universal (CDU)"
+    ],
+    "descricao": "A obra apresenta descrição e comentários das regras em uso, traduzidos da Revue de la Documentacion 26(4): 101-114, nov. 1959.",
+    "paginas": 32,
+    "arquivo": "https://livroaberto.ibict.br/bitstream/123456789/783/1/A%20Classifica%c3%a7%c3%a3o%20Decimal%20Universal%20%28CDU%29.pdf",
+    "tipo_documento": "Livro"
+  },
+  
+  {
+    "id": "b92477e65d204e0db2a5749f45d638cd",
+    "titulo": "Discutindo exposições: conceito, construção e avaliação",
+    "autor": "Museu de Astronomia e Ciências Afins (MAST)",
+    "ano": 2006,
+    "language": "Português",
+    "categorias": [
+      "Gestão da informação",
+      "Exposição em museu"
+    ],
+    "descricao": "Textos produzidos a partir da transcrição e edição dos discursos dos palestrantes, pretende ampliar o alcance do evento e disponibilizar material para possíveis interessados nessa discussão.",
+    "paginas": 122,
+    "arquivo": "https://livroaberto.ibict.br/bitstream/123456789/929/1/mast_colloquia_8.pdf",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "c8a48a8b03e541fb9d3e7b95b5a9edfa",
+    "titulo": "Documentação em museus",
+    "autor": "Museu de Astronomia e Ciências Afins (MAST)",
+    "ano": 2008,
+    "categorias": [
+      "Gestão da informação",
+      "Documentação de acervos",
+      "Preservação do acervo"
+    ],
+    "descricao": "Publicação organizada pela Coordenação de Museologia, dedicada à documentação de acervos em museus, atividade essencial para a socialização do patrimônio cultural.",
+    "paginas": 235,
+    "arquivo": "https://livroaberto.ibict.br/bitstream/123456789/933/1/mast_colloquia_10.pdf",
+    "tipo_documento": "Livro"
+  },
+  {
+    "id": "7f8c54d0b27a4f9d9a0a8922f9c456c4",
+    "titulo": "Museu: instituição de pesquisa",
+    "autor": "Museu de Astronomia e Ciências Afins (MAST)",
+    "ano": 2005,
+    "categorias": [
+      "Gestão da informação",
+      "Museologia"
+    ],
+    "descricao": "Coleção de textos descritos a partir das palestras ocorridas no Museu, pelo programa Mast Colloquia.",
+    "paginas": 100,
+    "arquivo": "https://livroaberto.ibict.br/bitstream/123456789/940/1/mast_colloquia_7.pdf",
+    "tipo_documento": "Livro"
+  },
+  
+  
 ]
