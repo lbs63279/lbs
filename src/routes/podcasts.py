@@ -242,8 +242,10 @@ def obter_conteudo_lbs(
     }
 
     todos_itens = conteudo_formatado[tipo]
-    total = len(todos_itens)
 
+    random.shuffle(todos_itens)
+
+    total = len(todos_itens)
     start = (page - 1) * limit
     end = start + limit
     itens_paginados = todos_itens[start:end]
