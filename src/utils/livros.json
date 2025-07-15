@@ -996,6 +996,7 @@
     "titulo": "Documentação em museus",
     "autor": "Museu de Astronomia e Ciências Afins (MAST)",
     "ano": 2008,
+    "language": "Português",
     "categorias": [
       "Gestão da informação",
       "Documentação de acervos",
@@ -1011,6 +1012,7 @@
     "titulo": "Museu: instituição de pesquisa",
     "autor": "Museu de Astronomia e Ciências Afins (MAST)",
     "ano": 2005,
+    "language": "Português",
     "categorias": [
       "Gestão da informação",
       "Museologia"
@@ -1019,6 +1021,19 @@
     "paginas": 100,
     "arquivo": "https://livroaberto.ibict.br/bitstream/123456789/940/1/mast_colloquia_7.pdf",
     "tipo_documento": "Livro"
-  }
-  
+  },
+  {
+    "id": "b51e20c2406cc827ff7791ef7f3e0bfc",
+    "titulo": "Eine Kunstgeschichte ist keine Kunstgeschichte: Kunstwissenschaftliche Perspektivierungen in Text und Bild",
+    "autor": "Kleine-Benne, Birte (org.)",
+    "ano": 2022,
+    "language": "Alemão",
+    "categorias": [
+      "Ciência Social"
+    ],
+    "descricao": "O livro apresenta múltiplas perspectivas da história da arte por meio de abordagens como arte pós-colonial, feminista, engajada, híbrida, sensível a animais, entre outras. A publicação reúne textos acadêmicos e formatos artísticos (desenhos, colagens, fotografias) de diversos autores e autoras, ampliando o entendimento dos dispositivos e narrativas possíveis na história da arte contemporânea.",
+    "paginas": 340,
+    "arquivo": "https://library.oapen.org/bitstream/20.500.12657/97325/1/external_content.pdf",
+    "tipo_documento": "Livro"
+  }  
 ]
