@@ -10,7 +10,7 @@ from pathlib import Path
 import json 
 from fastapi.responses import FileResponse
 from fastapi import Request
-
+import random
 
 router = APIRouter(prefix="/api/v1", tags=["Podcasts"])
 
@@ -256,6 +256,119 @@ def obter_conteudo_lbs(
         "totalPages": (total + limit - 1) // limit,
         "conteudo": itens_paginados
     }
+
+
+@router.get("/conteudo-lbs/todos")
+def obter_todos_conteudos_randomizados(
+    page: int = Query(1, gt=0),
+    limit: int = Query(10, gt=0, le=100),
+):
+    podcasts = flatten_podcasts(obter_podcasts())
+    aulas = obter_aulas_youtube()
+    livros = obter_livros_pdf()
+    artigos = obter_artigos_pdf()
+
+    caminho_bibliotecas = Path(__file__).resolve().parent.parent / "utils" / "bibliotecas.json"
+    try:
+        with open(caminho_bibliotecas, encoding="utf-8") as f:
+            bibliotecas = json.load(f)
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Erro ao carregar bibliotecas: {str(e)}")
+    
+    for item in podcasts:
+        item["tipo"] = "podcast"
+
+    for item in aulas:
+        item["tipo"] = "aula"
+
+    for item in livros:
+        item["tipo"] = "livro"
+
+    for item in artigos:
+        item["tipo"] = "artigo"
+
+    for item in bibliotecas:
+        item["tipo"] = "biblioteca"
+
+    todos_itens = podcasts + aulas + livros + artigos + bibliotecas
+    random.shuffle(todos_itens)
+
+    total = len(todos_itens)
+    start = (page - 1) * limit
+    end = start + limit
+    itens_paginados = todos_itens[start:end]
+
+    return {
+        "page": page,
+        "limit": limit,
+        "total": total,
+        "totalPages": (total + limit - 1) // limit,
+        "conteudo": itens_paginados
+    }
+
+
+@router.get("/conteudo-lbs/item/{item_id}")
+def obter_item_unico_por_id(item_id: str):
+    podcasts = obter_podcasts()
+
+    podcast = next((p for p in podcasts if str(p.get("id")) == item_id), None)
+    if podcast:
+        return {
+            "tipo": "podcast",
+            **podcast
+        }
+
+    for p in podcasts:
+        episodio = next((e for e in p.get("episodios", []) if str(e.get("id")) == item_id), None)
+        if episodio:
+            return {
+                "tipo": "podcast",
+                "podcast_id": p["id"],
+                "podcast_titulo": p["titulo"],
+                "publicador": p["publicador"],
+                "episodio_id": episodio["id"],
+                "episodio_titulo": episodio["titulo"],
+                "descricao": episodio["descricao"],
+                "data_lancamento": episodio["data_lancamento"],
+                "duracao_ms": episodio["duracao_ms"],
+                "url": episodio["url"],
+                "embed_url": episodio["embed_url"],
+                "imagem_url": episodio["imagem_url"],
+                "categorias": episodio.get("categorias", [])
+            }
+
+    aulas = obter_aulas_youtube()
+    for aula in aulas:
+        if str(aula.get("id")) == item_id:
+            aula["tipo"] = "aula"
+            return aula
+
+    livros = obter_livros_pdf()
+    for livro in livros:
+        if str(livro.get("id")) == item_id:
+            livro["tipo"] = "livro"
+            return livro
+
+    artigos = obter_artigos_pdf()
+    for artigo in artigos:
+        if str(artigo.get("id")) == item_id:
+            artigo["tipo"] = "artigo"
+            return artigo
+
+    caminho_bibliotecas = Path(__file__).resolve().parent.parent / "utils" / "bibliotecas.json"
+    try:
+        with open(caminho_bibliotecas, encoding="utf-8") as f:
+            bibliotecas = json.load(f)
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Erro ao carregar bibliotecas: {str(e)}")
+
+    for biblioteca in bibliotecas:
+        if str(biblioteca.get("id")) == item_id:
+            biblioteca["tipo"] = "biblioteca"
+            return biblioteca
+
+    raise HTTPException(status_code=404, detail="Item não encontrado.")
+
 
 @router.get("/fonts/{font_name}")
 def get_font(font_name: str):
