@@ -14,6 +14,28 @@ import random
 
 router = APIRouter(prefix="/api/v1", tags=["Podcasts"])
 
+ARTIGOS_CACHE = []
+BIBLIOTECAS_CACHE = []
+LIVROS_CACHE = []
+PODCASTS_CACHE = []
+AULAS_CACHE = []
+
+def carregar_conteudos_em_memoria():
+    base_path = Path(__file__).resolve().parent.parent / "utils"
+
+    def carregar_json(nome_arquivo):
+        caminho = base_path / nome_arquivo
+        with open(caminho, encoding="utf-8") as f:
+            return json.load(f)
+
+    global ARTIGOS_CACHE, BIBLIOTECAS_CACHE, LIVROS_CACHE, PODCASTS_CACHE, AULAS_CACHE
+
+    ARTIGOS_CACHE = carregar_json("artigos.json")
+    BIBLIOTECAS_CACHE = carregar_json("bibliotecas.json")
+    LIVROS_CACHE = carregar_json("livros.json")
+    PODCASTS_CACHE = carregar_json("podcast.json")
+    AULAS_CACHE = carregar_json("aula.json")
+
 def get_db():
     db = SessionLocal()
     try:
@@ -221,24 +243,12 @@ def obter_conteudo_lbs(
     page: int = Query(1, gt=0),
     limit: int = Query(10, gt=0, le=100)
 ):
-    podcasts = obter_podcasts()
-    aulas = obter_aulas_youtube()
-    livros = obter_livros_pdf()
-    artigos = obter_artigos_pdf()
-
-    caminho_bibliotecas = Path(__file__).resolve().parent.parent / "utils" / "bibliotecas.json"
-    try:
-        with open(caminho_bibliotecas, encoding="utf-8") as f:
-            bibliotecas = json.load(f)
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Erro ao carregar bibliotecas: {str(e)}")
-
     conteudo_formatado = {
-        "podcast": flatten_podcasts(podcasts),
-        "livro": livros,
-        "aula": aulas,
-        "biblioteca": bibliotecas,
-        "artigos": artigos,
+        "podcast": flatten_podcasts(PODCASTS_CACHE),
+        "livro": LIVROS_CACHE,
+        "aula": AULAS_CACHE,
+        "biblioteca": BIBLIOTECAS_CACHE,
+        "artigos": ARTIGOS_CACHE,
     }
 
     todos_itens = conteudo_formatado[tipo]
