@@ -253,8 +253,6 @@ def obter_conteudo_lbs(
 
     todos_itens = conteudo_formatado[tipo]
 
-    random.shuffle(todos_itens)
-
     total = len(todos_itens)
     start = (page - 1) * limit
     end = start + limit
@@ -303,7 +301,6 @@ def obter_todos_conteudos_randomizados(
         item["tipo"] = "biblioteca"
 
     todos_itens = podcasts + aulas + livros + artigos + bibliotecas
-    random.shuffle(todos_itens)
 
     total = len(todos_itens)
     start = (page - 1) * limit
