@@ -867,5 +867,82 @@
         "idioma": "Inglês",
         "id": "41d2aff15c1c008f5e4017f8f2ebb0c426946ba352a4e027b51267e2d16f730e",
         "tipo_documento": "Artigo"
+    },
+    {
+        "titulo": "Brochure MBA",
+        "descricao": null,
+        "autor": "Link School of Business",
+        "url": "https://s3.us-west-2.amazonaws.com/conteudo.lsb.edu.br/repositorio-institucional/Brochura+MBA.pdf",
+        "data_publicacao": "2025-12-01T15:00:00",
+        "categoria": "Repositório Institucional",
+        "idioma": "Português",
+        "id": "dmvq0pkx2yjyfgy2u22j72vud9qpjqjhda4t4d77xx9sy8qb9ehessqdw3rgauq9",
+        "tipo_documento": "Artigo"
+    },
+    {
+        "titulo": "Brochure Graduação",
+        "descricao": null,
+        "autor": "Link School of Business",
+        "url": "https://s3.us-west-2.amazonaws.com/conteudo.lsb.edu.br/repositorio-institucional/Brochure+Gradua%C3%A7%C3%A3o+Link+School+-+2026.01.pdf",
+        "data_publicacao": "2025-12-01T15:00:00",
+        "categoria": "Repositório Institucional",
+        "idioma": "Português",
+        "id": "5fhct1ku5mpdeho40w8tlh104i04l5svuxb3kur9626ysvxl4ejcmvy41jr55msd",
+        "tipo_documento": "Artigo"
+    },
+    {
+        "titulo": "História da Link",
+        "descricao": null,
+        "autor": "Link School of Business",
+        "url": "https://s3.us-west-2.amazonaws.com/conteudo.lsb.edu.br/repositorio-institucional/Hist%C3%B3ria+Link.pdf",
+        "data_publicacao": "2025-12-01T15:00:00",
+        "categoria": "Repositório Institucional",
+        "idioma": "Português",
+        "id": "hpcmw9xk2kj4g0hziefahv4tblu2fxcrqmi4t61owh23gajacqm0p22p3jv4xm7q",
+        "tipo_documento": "Artigo"
+    },
+    {
+        "titulo": "Link Brandbook",
+        "descricao": null,
+        "autor": "Link School of Business",
+        "url": "https://s3.us-west-2.amazonaws.com/conteudo.lsb.edu.br/repositorio-institucional/Link+Brandbook.pdf",
+        "data_publicacao": "2025-12-01T15:00:00",
+        "categoria": "Repositório Institucional",
+        "idioma": "Português",
+        "id": "f9gzvkayr4vui34iikcpbhlvflhw3s30a469jlogkktktz8e4gjfsj50p18f0q6r",
+        "tipo_documento": "Artigo"
+    },
+    {
+        "titulo": "Manual Portal do Aluno",
+        "descricao": null,
+        "autor": "Link School of Business",
+        "url": "https://s3.us-west-2.amazonaws.com/conteudo.lsb.edu.br/repositorio-institucional/Manual+Portal+do+Aluno.pdf",
+        "data_publicacao": "2025-12-01T15:00:00",
+        "categoria": "Repositório Institucional",
+        "idioma": "Português",
+        "id": "wzmejj7m1zc2zjus46hoj9b7h65qb7xy3tpj00s3zp91dmax4ydefmbx4g4g2fzb",
+        "tipo_documento": "Artigo"
+    },
+    {
+        "titulo": "Template Artigo para Banca Oficial",
+        "descricao": null,
+        "autor": "Link School of Business",
+        "url": "https://s3.us-west-2.amazonaws.com/conteudo.lsb.edu.br/repositorio-institucional/Template+artigo+para+Banca+Final.pdf",
+        "data_publicacao": "2025-12-01T15:00:00",
+        "categoria": "Repositório Institucional",
+        "idioma": "Português",
+        "id": "yw68e4h49a9cf9mk3otlwl5mgtbumtp5dmbo3pql8ix83e9f0374r90l0pczttbs",
+        "tipo_documento": "Artigo"
+    },
+    {
+        "titulo": "Relatório Gerencial da Comunidade 2025.2",
+        "descricao": null,
+        "autor": "Link School of Business",
+        "url": "https://s3.us-west-2.amazonaws.com/conteudo.lsb.edu.br/repositorio-institucional/Art+Departament+-+Relat%C3%B3rio+Gerencial+da+Comunidade+2025.2.pdf",
+        "data_publicacao": "2025-12-01T15:00:00",
+        "categoria": "Repositório Institucional",
+        "idioma": "Português",
+        "id": "v4how96zoggw9os23z4wh37liyvldwhlidi21b1wbb23iwfhfa2ga2wkvq8jj9j3",
+        "tipo_documento": "Artigo"
     }
 ]
