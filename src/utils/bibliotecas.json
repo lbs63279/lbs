@@ -158,6 +158,31 @@
       "Nome": "The Babson Collaborative",
       "Descricao": "Oferece uma plataforma para colaboração entre membros da comunidade acadêmica, permitindo acesso a recursos, informações e ferramentas de networking. Os usuários podem compartilhar ideias, participar de discussões e acessar materiais relevantes para suas atividades.",
       "Link": "https://www.babsoncollaborative.org/"
+    },
+    {
+      "Nome": "BiblioS Digital",
+      "Descricao": "Biblioteca digital gratuita da Prefeitura de São Paulo, mantida pela Secretaria Municipal de Cultura. Ela oferece mais de 17 mil e-books e audiolivros de diversos gêneros — ficção, não ficção, clássicos, best-sellers e obras em outros idiomas — acessíveis por computador, tablet ou celular. O acesso é gratuito, bastando fazer um cadastro online (ou usar o mesmo das bibliotecas físicas).",
+      "Link": "https://portal.arvore.com.br/bibliosp"
+    },
+    {
+      "Nome": "Portal Domínio Público",
+      "Descricao": "É uma plataforma que disponibiliza obras literárias, artísticas e científicas que estão em domínio público, permitindo acesso gratuito e legal a esses conteúdos. O objetivo é promover a cultura e o conhecimento, facilitando a disseminação de obras clássicas e importantes. Além disso, o portal oferece recursos para pesquisa e download.",
+      "Link": "http://www.dominiopublico.gov.br/"
+    },
+    {
+      "Nome": "Livro Aberto - IBICT",
+      "Descricao": "O portal tem por objetivo reunir, divulgar e preservar as publicações oficiais em ciência, tecnologia e inovação.",
+      "Link": "https://livroaberto.ibict.br/"
+    },
+    {
+      "Nome": "Editora Poisson",
+      "Descricao": "A Editora Poisson publica e-books acadêmicos gratuitos em diversas áreas do conhecimento, como Ciências Agrárias, Biológicas, Educação, Saúde, Exatas, Humanas, Sociais Aplicadas, Engenharias, Linguística e Meio Ambiente. Seu objetivo é disseminar conhecimento, oferecendo a pesquisadores e acadêmicos a oportunidade de publicar e divulgar seus trabalhos com agilidade e qualidade. A editora disponibiliza uma biblioteca online para acesso e download das publicações.",
+      "Link": "https://poisson.com.br/2018/"
+    },
+    {
+      "Nome": "Biblioteca Interativa Sebrae",
+      "Descricao": "Disponibiliza gratuitamente uma variedade de materiais relacionados ao empreendedorismo, incluindo publicações sobre sustentabilidade, design, moda, inteligência de mercado e economia criativa. Além disso, oferece recursos como artes editáveis para redes sociais, visando auxiliar empreendedores na gestão e promoção de seus negócios.",
+      "Link": "https://bis.sebrae.com.br/"
     }
   ]
   
