@@ -161,12 +161,12 @@
     },
     {
       "Nome": "BiblioS Digital",
-      "Descricao": "biblioteca digital gratuita da Prefeitura de São Paulo, mantida pela Secretaria Municipal de Cultura. Ela oferece mais de 17 mil e-books e audiolivros de diversos gêneros — ficção, não ficção, clássicos, best-sellers e obras em outros idiomas — acessíveis por computador, tablet ou celular. O acesso é gratuito, bastando fazer um cadastro online (ou usar o mesmo das bibliotecas físicas).",
+      "Descricao": "Biblioteca digital gratuita da Prefeitura de São Paulo, mantida pela Secretaria Municipal de Cultura. Ela oferece mais de 17 mil e-books e audiolivros de diversos gêneros — ficção, não ficção, clássicos, best-sellers e obras em outros idiomas — acessíveis por computador, tablet ou celular. O acesso é gratuito, bastando fazer um cadastro online (ou usar o mesmo das bibliotecas físicas).",
       "Link": "https://portal.arvore.com.br/bibliosp"
     },
     {
       "Nome": "Portal Domínio Público",
-      "Descricao": "é uma plataforma que disponibiliza obras literárias, artísticas e científicas que estão em domínio público, permitindo acesso gratuito e legal a esses conteúdos. O objetivo é promover a cultura e o conhecimento, facilitando a disseminação de obras clássicas e importantes. Além disso, o portal oferece recursos para pesquisa e download.",
+      "Descricao": "É uma plataforma que disponibiliza obras literárias, artísticas e científicas que estão em domínio público, permitindo acesso gratuito e legal a esses conteúdos. O objetivo é promover a cultura e o conhecimento, facilitando a disseminação de obras clássicas e importantes. Além disso, o portal oferece recursos para pesquisa e download.",
       "Link": "http://www.dominiopublico.gov.br/"
     },
     {
@@ -181,7 +181,7 @@
     },
     {
       "Nome": "Biblioteca Interativa Sebrae",
-      "Descricao": "disponibiliza gratuitamente uma variedade de materiais relacionados ao empreendedorismo, incluindo publicações sobre sustentabilidade, design, moda, inteligência de mercado e economia criativa. Além disso, oferece recursos como artes editáveis para redes sociais, visando auxiliar empreendedores na gestão e promoção de seus negócios.",
+      "Descricao": "Disponibiliza gratuitamente uma variedade de materiais relacionados ao empreendedorismo, incluindo publicações sobre sustentabilidade, design, moda, inteligência de mercado e economia criativa. Além disso, oferece recursos como artes editáveis para redes sociais, visando auxiliar empreendedores na gestão e promoção de seus negócios.",
       "Link": "https://bis.sebrae.com.br/"
     }
   ]
