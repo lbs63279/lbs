@@ -183,6 +183,41 @@
       "Nome": "Biblioteca Interativa Sebrae",
       "Descricao": "Disponibiliza gratuitamente uma variedade de materiais relacionados ao empreendedorismo, incluindo publicações sobre sustentabilidade, design, moda, inteligência de mercado e economia criativa. Além disso, oferece recursos como artes editáveis para redes sociais, visando auxiliar empreendedores na gestão e promoção de seus negócios.",
       "Link": "https://bis.sebrae.com.br/"
+    },
+    {
+      "Nome": "MEC LIVROS",
+      "Descricao": "E-books de Conhecimento público, memória preservada.",
+      "Link": "https://www.gov.br/mec/pt-br/mec-livros"
+    },
+    {
+      "Nome": "Emerald Insight",
+      "Descricao": "É uma plataforma digital que reúne artigos acadêmicos, livros e pesquisas nas áreas de negócios, gestão e ciências sociais.",
+      "Link": "https://www.emerald.com/"
+    },
+    {
+      "Nome": "INFORMS database",
+      "Descricao": "Base de dados de revistas científicas nas áreas de business analytics, data science, gestão, logística e tomada de decisão.",
+      "Link": "https://pubsonline.informs.org/"
+    },
+    {
+      "Nome": "Ebsco",
+      "Descricao": "Oferece acesso a bases de dados acadêmicas, revistas científicas e conteúdos especializados para pesquisa.",
+      "Link": "https://www.ebsco.com/"
+    },
+    {
+      "Nome": "IEEE Xplore",
+      "Descricao": "Base de dados de periódicos.",
+      "Link": "https://open.ieee.org/"
+    },
+    {
+      "Nome": "Economic and Political Weekly",
+      "Descricao": "É uma revista acadêmica indiana que publica análises sobre economia, política e questões sociais.",
+      "Link": "--TODO--"
+    },
+    {
+      "Nome": "Statista",
+      "Descricao": "É uma revista acadêmica indiana que publica análises sobre economia, política e questões sociais.",
+      "Link": "https://www.statista.com/?srsltid=AfmBOorhfOFM6uwBYij8ClklKMqOOxnLXea5WIo5HpNCHZNv1JbPdYk9"
     }
   ]
   
